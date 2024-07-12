@@ -158,7 +158,16 @@ const config = {
             target: '_self',
             position: 'left'
           },
-
+          {
+            href: 'https://weboftrust.github.io/kerisse/',
+            label: 'Kerisse',
+            position: 'right',
+          },
+          {
+            href: 'https://weboftrust.github.io/WOT-terms/',
+            label: 'WOT-terms glossary',
+            position: 'right',
+          },
           {
             href: 'https://github.com/weboftrust/keridoc',
             label: 'GitHub repo',
@@ -210,9 +219,14 @@ const config = {
                 href: 'https://github.com/weboftrust/keridoc',
               },
               {
-                label: 'test2',
-                href: 'https://github.com/weboftrust/keridoc',
+                label: 'Kerisse',
+                href: 'https://weboftrust.github.io/kerisse/',
               },
+              {
+                label: 'WOT-terms glossary',
+                href: 'https://weboftrust.github.io/WOT-terms/',
+              },
+
             ],
           },
         ],
