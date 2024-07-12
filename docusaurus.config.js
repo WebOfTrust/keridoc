@@ -165,7 +165,7 @@ const config = {
           },
           {
             href: 'https://weboftrust.github.io/WOT-terms/',
-            label: 'WOT-terms glossary',
+            label: 'KERI Suite Glossary',
             position: 'right',
           },
           {
