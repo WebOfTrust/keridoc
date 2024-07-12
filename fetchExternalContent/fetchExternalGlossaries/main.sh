@@ -1,0 +1,28 @@
+#!/bin/bash
+
+node fetchExternalContent/fetchExternalGlossaries/fetchDigitalGovtNzContent/fetchDigitalGovtNzContent.mjs
+
+node fetchExternalContent/fetchExternalGlossaries/fetchEssifLabContent/fetchEssifLabContent.mjs
+
+node fetchExternalContent/fetchExternalGlossaries/fetchNistContent/fetchNistContent.mjs
+
+node fetchExternalContent/fetchExternalGlossaries/fetchToIPContent/fetchToIPContent.mjs
+
+node fetchExternalContent/fetchExternalGlossaries/fetchToipDidWebs/fetchToipDidWebs.mjs
+
+node fetchExternalContent/fetchExternalGlossaries/fetchW3cDid/fetchW3cDid.mjs
+
+node fetchExternalContent/fetchExternalGlossaries/fetchWotTermsContent/fetchWotTermsContent.mjs
+
+node fetchExternalContent/fetchExternalGlossaries/fetchTswgKeri/fetchTswgKeri.mjs
+
+node fetchExternalContent/fetchExternalGlossaries/fetchTswgAcdc/fetchTswgAcdc.mjs
+
+node fetchExternalContent/fetchExternalGlossaries/fetchTswgCesr/fetchTswgCesr.mjs
+
+
+
+
+
+# Combine glossaries
+node fetchExternalContent/fetchExternalGlossaries/createDictionary.mjs
