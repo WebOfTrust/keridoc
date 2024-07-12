@@ -223,7 +223,7 @@ const config = {
                 href: 'https://weboftrust.github.io/kerisse/',
               },
               {
-                label: 'WOT-terms glossary',
+                label: 'KERI Suite Glossary',
                 href: 'https://weboftrust.github.io/WOT-terms/',
               },
 
