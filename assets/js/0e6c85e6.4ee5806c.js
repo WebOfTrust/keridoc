@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkeridoc=self.webpackChunkkeridoc||[]).push([[9891],{5999:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Intro","description":"Intro.","slug":"/category/intro","permalink":"/keridoc/docs/category/intro","sidebar":"tutorialSidebar","navigation":{"next":{"title":"WOT terms documentation","permalink":"/keridoc/docs/intro/intro"}}}}')}}]);

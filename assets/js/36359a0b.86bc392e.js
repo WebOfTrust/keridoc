@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkeridoc=self.webpackChunkkeridoc||[]).push([[5664],{5769:e=>{e.exports=JSON.parse('{"tags":[{"label":"KERI","permalink":"/keridoc/docs/tags/keri","count":1},{"label":"ACDC","permalink":"/keridoc/docs/tags/acdc","count":1}]}')}}]);
