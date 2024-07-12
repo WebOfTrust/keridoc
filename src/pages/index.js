@@ -41,7 +41,7 @@ export default function Home() {
     >
       <HomepageHeader />
       <main>
-        <p className="text-center">Personal learning environment and consensus building tool</p>
+        <HomepageFeatures />
       </main>
     </Layout>
   );
