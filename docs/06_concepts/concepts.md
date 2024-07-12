@@ -240,10 +240,10 @@ Samuel Smith about `English Semantic Naming`:
 
 ##### Conventions
 
-1. {noun}
+1. |noun|
 2. Er = object instances that do stuff
 3. Ery = factory classes or classes that manage other classes
-4. {noun}+s -> Sigs, Sigers = a list of Sig and a list of Siger
+4. |noun|+s -> Sigs, Sigers = a list of Sig and a list of Siger
 
 > Example II:
 >
@@ -341,12 +341,12 @@ Non-repudiation
 
 - Controller binds cryptographic protected data to him/herself (by mistake)
 - Graduated disclosure isn't used
-  {TBW}
+  |TBW|
 
 #### KERI can't be (that) privacy protecting when
 
 - Third party binds cryptographic protected data to other actors involved (by mistake)
-  {TBW}
+  |TBW|
 
 #### Difference between privacy and confidentiality
 

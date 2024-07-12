@@ -70,7 +70,7 @@ We've done our best to protect the privacy of Github users by investigating the 
 
 ### List of questions and definitions
 
-{TBW}
+|TBW|
 
 ## Knowledge you should be confidently applying
 
