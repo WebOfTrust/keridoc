@@ -12,7 +12,7 @@ const paths = require('./docusaurus.paths.js');
 const config = {
   title: 'KeriDoc',
   tagline:
-    'KERI Documentation',
+    'KERI Suite Documentation',
 
   favicon: 'img/favicon.ico',
 
