@@ -27,10 +27,10 @@ keyword: Internet-Draft
 venue:
   group: WG
   type: Working Group
-  mail: <WG@example.com>
-  arch: <https://example.com/WG>
+  mail: [WG@example.com](WG@example.com)
+  arch: [https://example.com/WG](https://example.com/WG)
   github: USER/REPO
-  latest: <https://example.com/LATEST>
+  latest: [https://example.com/LATEST](https://example.com/LATEST)
 
 author
  -
@@ -41,12 +41,12 @@ author
  -
     name: Phil Feairheller
     organization: GLEIF
-    email: <Philip.Feairheller@gleif.org>
+    email: [Philip.Feairheller@gleif.org](Philip.Feairheller@gleif.org)
 
 normative:
 
   IPEX-ID:
-    target: <https://github.com/WebOfTrust/ietf-oobi>
+    target: [https://github.com/WebOfTrust/ietf-oobi](https://github.com/WebOfTrust/ietf-oobi)
     title: IETF IPEX (Issuance and Presentation EXchange) Prototocol Internet Draft
     author:
       -
@@ -56,11 +56,11 @@ normative:
       -
         name: Phil Feairheller
         organization: GLEIF
-        email: <Philip.Feairheller@gleif.org>
+        email: [Philip.Feairheller@gleif.org](Philip.Feairheller@gleif.org)
     date: 2022
 
   ACDC-ID:
-    target: <https://github.com/trustoverip/tswg-acdc-specification>
+    target: [https://github.com/trustoverip/tswg-acdc-specification](https://github.com/trustoverip/tswg-acdc-specification)
     title: IETF ACDC (Authentic Chained Data Containers) Internet Draft
     author:
       ins: S. Smith
@@ -69,7 +69,7 @@ normative:
     date: 2022
 
   OOBI-ID:
-    target: <https://github.com/WebOfTrust/ietf-oobi>
+    target: [https://github.com/WebOfTrust/ietf-oobi](https://github.com/WebOfTrust/ietf-oobi)
     title: IETF OOBI (Out-Of-Band-Introduction) Internet Draft
     author:
       ins: S. Smith
@@ -78,7 +78,7 @@ normative:
     date: 2022
 
   KERI-ID:
-    target: <https://github.com/WebOfTrust/ietf-keri>
+    target: [https://github.com/WebOfTrust/ietf-keri](https://github.com/WebOfTrust/ietf-keri)
     title: IETF KERI (Key Event Receipt Infrastructure) Internet Draft
     author:
       ins: S. Smith
@@ -87,7 +87,7 @@ normative:
     date: 2022
 
   SAID-ID:
-    target: <https://github.com/WebOfTrust/ietf-said>
+    target: [https://github.com/WebOfTrust/ietf-said](https://github.com/WebOfTrust/ietf-said)
     title: IETF SAID (Self-Addressing IDentifier) Internet Draft
     author:
       ins: S. Smith
@@ -96,7 +96,7 @@ normative:
     date: 2022
 
   CESR-ID:
-    target: <https://github.com/WebOfTrust/ietf-cesr>
+    target: [https://github.com/WebOfTrust/ietf-cesr](https://github.com/WebOfTrust/ietf-cesr)
     title: IETF CESR (Composable Event Streaming Representation) Internet Draft
     author:
       ins: S. Smith
@@ -105,7 +105,7 @@ normative:
     date: 2022
 
   PTEL-ID:
-    target: <https://github.com/WebOfTrust/ietf-ptel>
+    target: [https://github.com/WebOfTrust/ietf-ptel](https://github.com/WebOfTrust/ietf-ptel)
     title: IETF PTEL (Public Transaction Event Log) Internet Draft
     author:
       ins: P. Feairheller
@@ -114,7 +114,7 @@ normative:
     date: 2022
 
   Proof-ID:
-    target: <https://github.com/WebOfTrust/ietf-cesr-proof>
+    target: [https://github.com/WebOfTrust/ietf-cesr-proof](https://github.com/WebOfTrust/ietf-cesr-proof)
     title: IETF CESR-Proof Internet Draft
     author:
       ins: P. Feairheller
@@ -123,7 +123,7 @@ normative:
     date: 2022
 
   DIDK-ID:
-    target: <https://github.com/WebOfTrust/ietf-did-keri>
+    target: [https://github.com/WebOfTrust/ietf-did-keri](https://github.com/WebOfTrust/ietf-did-keri)
     title: IETF DID-KERI Internet Draft
     author:
       ins: P. Feairheller
@@ -132,23 +132,23 @@ normative:
     date: 2022
 
   JSON:
-    target: <https://www.json.org/json-en.html>
+    target: [https://www.json.org/json-en.html](https://www.json.org/json-en.html)
     title: JavaScript Object Notation Delimeters
 
   RFC8259:
-    target: <https://datatracker.ietf.org/doc/html/rfc8259>
+    target: [https://datatracker.ietf.org/doc/html/rfc8259](https://datatracker.ietf.org/doc/html/rfc8259)
     title: JSON (JavaScript Object Notation)
 
   RFC4627:
-    target: <https://datatracker.ietf.org/doc/rfc4627/>
+    target: [https://datatracker.ietf.org/doc/rfc4627/](https://datatracker.ietf.org/doc/rfc4627/)
     title: The application/json Media Type for JavaScript Object Notation (JSON)
 
   CBOR:
-    target: <https://en.wikipedia.org/wiki/CBOR>
+    target: [https://en.wikipedia.org/wiki/CBOR](https://en.wikipedia.org/wiki/CBOR)
     title: CBOR Mapping Object Codes
 
   RFC8949:
-    target: <https://datatracker.ietf.org/doc/rfc8949/>
+    target: [https://datatracker.ietf.org/doc/rfc8949/](https://datatracker.ietf.org/doc/rfc8949/)
     title: Concise Binary Object Representation (CBOR)
     author:
       -
@@ -160,21 +160,21 @@ normative:
     date: 2020-12-04
 
   MGPK:
-    target: <https://github.com/msgpack/msgpack/blob/master/spec.md>
+    target: [https://github.com/msgpack/msgpack/blob/master/spec.md](https://github.com/msgpack/msgpack/blob/master/spec.md)
     title: Msgpack Mapping Object Codes
 
   JSch:
-    target: <https://json-schema.org>
+    target: [https://json-schema.org](https://json-schema.org)
     title: JSON Schema
 
   JSch_202012:
-    target: <https://json-schema.org/draft/2020-12/release-notes.html>
+    target: [https://json-schema.org/draft/2020-12/release-notes.html](https://json-schema.org/draft/2020-12/release-notes.html)
     title: "JSON Schema 2020-12"
 
 informative:
 
   KERI:
-    target: <https://arxiv.org/abs/1907.02143>
+    target: [https://arxiv.org/abs/1907.02143](https://arxiv.org/abs/1907.02143)
     title: Key Event Receipt Infrastructure (KERI)
     author:
       ins: S. Smith
@@ -183,15 +183,15 @@ informative:
     date: 2021
 
   IDSys:
-    target: <https://github.com/SmithSamuelM/Papers/blob/master/whitepapers/Identity-System-Essentials.pdf>
+    target: [https://github.com/SmithSamuelM/Papers/blob/master/whitepapers/Identity-System-Essentials.pdf](https://github.com/SmithSamuelM/Papers/blob/master/whitepapers/Identity-System-Essentials.pdf)
     title: Identity System Essentials
 
   RC:
-    target: <https://en.wikipedia.org/wiki/Ricardian_contract>
+    target: [https://en.wikipedia.org/wiki/Ricardian_contract](https://en.wikipedia.org/wiki/Ricardian_contract)
     title: Ricardian Contract
 
   CLC:
-    target: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2045818>
+    target: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2045818](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2045818)
     title: "Chain-Link Confidentiality"
 
 --- abstract
@@ -769,7 +769,7 @@ The Issuer signs the SAID, `d` field value of the field map above.
 
 ## Conventions and Definitions
 
-{::boilerplate bcp14-tagged}
+|::boilerplate bcp14-tagged|
 
 </div>
 
@@ -846,7 +846,7 @@ This document has no IANA actions.
 
 ## Acknowledgments
 
-{:numbered="false"}
+|:numbered="false"|
 
 TODO acknowledge.
 

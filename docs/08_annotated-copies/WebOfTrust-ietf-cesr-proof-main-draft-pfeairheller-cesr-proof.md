@@ -38,7 +38,7 @@ author
 
 normative:
   ACDC:
-    target: <https://datatracker.ietf.org/doc/draft-ssmith-acdc/>
+    target: [https://datatracker.ietf.org/doc/draft-ssmith-acdc/](https://datatracker.ietf.org/doc/draft-ssmith-acdc/)
     title: Authentic Data Chained Containers
     author:
       ins: S. Smith
@@ -46,7 +46,7 @@ normative:
       org: ProSapien LLC
     date: 2021
   CESR:
-    target: <https://datatracker.ietf.org/doc/draft-ssmith-cesr/>
+    target: [https://datatracker.ietf.org/doc/draft-ssmith-cesr/](https://datatracker.ietf.org/doc/draft-ssmith-cesr/)
     title: Composable Event Streaming Representation (CESR)
     author:
       ins: S. Smith
@@ -55,7 +55,7 @@ normative:
     date: 2021
 
   SAID:
-    target: <https://datatracker.ietf.org/doc/draft-ssmith-said/>
+    target: [https://datatracker.ietf.org/doc/draft-ssmith-said/](https://datatracker.ietf.org/doc/draft-ssmith-said/)
     title: Self-Addressing IDentifier (SAID)
     author:
       ins: S. Smith
@@ -65,7 +65,7 @@ normative:
 
 informative:
   KERI:
-    target: <https://arxiv.org/abs/1907.02143>
+    target: [https://arxiv.org/abs/1907.02143](https://arxiv.org/abs/1907.02143)
     title: Key Event Receipt Infrastructure (KERI)
     author:
       ins: S. Smith
@@ -74,15 +74,15 @@ informative:
     date: 2021
 
   JSON:
-    target: <https://www.json.org/json-en.html>
+    target: [https://www.json.org/json-en.html](https://www.json.org/json-en.html)
     title: JavaScript Object Notation Delimeters
 
   CBOR:
-    target: <https://en.wikipedia.org/wiki/CBOR>
+    target: [https://en.wikipedia.org/wiki/CBOR](https://en.wikipedia.org/wiki/CBOR)
     title: CBOR Mapping Object Codes
 
   RFC8949:
-    target: <https://datatracker.ietf.org/doc/rfc8949/>
+    target: [https://datatracker.ietf.org/doc/rfc8949/](https://datatracker.ietf.org/doc/rfc8949/)
     title: Concise Binary Object Representation (CBOR)
     author:
       -
@@ -95,11 +95,11 @@ informative:
     date: 2020-12-04
 
   MGPK:
-    target: <https://github.com/msgpack/msgpack/blob/master/spec.md>
+    target: [https://github.com/msgpack/msgpack/blob/master/spec.md](https://github.com/msgpack/msgpack/blob/master/spec.md)
     title: Msgpack Mapping Object Codes
 
   RFC6901:
-    target: <https://datatracker.ietf.org/doc/html/rfc6901>
+    target: [https://datatracker.ietf.org/doc/html/rfc6901](https://datatracker.ietf.org/doc/html/rfc6901)
     title: JavaScript Object Notation (JSON) Pointer
     author:
       -
@@ -111,7 +111,7 @@ informative:
     date: 2003
 
   JSONPath:
-    target: <https://datatracker.ietf.org/doc/draft-ietf-jsonpath-base/>
+    target: [https://datatracker.ietf.org/doc/draft-ietf-jsonpath-base/](https://datatracker.ietf.org/doc/draft-ietf-jsonpath-base/)
     title: JSONPath - Query expressions for JSON
     author:
       -
