@@ -1,2 +1,0 @@
-# authority
-## See ToIP glossary
