@@ -27,7 +27,7 @@ const fetchCommitHash = () => {
   }
 
   const owner = 'WebOfTrust';
-  const repo = 'WOT-terms';
+  const repo = 'keridoc';
   const pathName = window.location.pathname;
 
   let filePath = pathName.substring(pathName.indexOf('/', 1) + 1) + ".md";
