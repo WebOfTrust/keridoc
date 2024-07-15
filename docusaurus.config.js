@@ -10,7 +10,7 @@ const paths = require('./docusaurus.paths.js');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'KeriDoc',
+  title: 'KERIDoc',
   tagline:
     'KERI Suite Documentation',
 
@@ -91,7 +91,7 @@ const config = {
       navbar: {
         title: 'Home',
         logo: {
-          alt: 'KeriDoc Logo',
+          alt: 'KERIDoc Logo',
           src: 'img/stamp.png',
         },
         items: [
