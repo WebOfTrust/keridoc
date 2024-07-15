@@ -21,7 +21,7 @@ const path = require('path');
 /**********/
 /* CONFIG */
 
-const siteUrl = 'https://weboftrust.github.io/WOT-terms';
+const siteUrl = 'https://weboftrust.github.io/kerisse';
 const baseUrl = 'https://weboftrust.github.io';
 
 const outputDirectory = path.join(__dirname, '../logs');
