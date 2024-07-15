@@ -89,7 +89,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'KeriDoc',
+        title: 'Home',
         logo: {
           alt: 'KeriDoc Logo',
           src: 'img/stamp.png',
@@ -99,7 +99,7 @@ const config = {
             type: 'doc',
             docId: 'intro/intro',
             position: 'left',
-            label: 'Documentation',
+            label: 'Enter documentation',
           },
           {
             type: 'doc',
