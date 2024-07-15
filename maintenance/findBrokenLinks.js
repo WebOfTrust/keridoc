@@ -1,6 +1,6 @@
 /**
- * @file This file checks all links on the WOT-terms site and reports broken links. It also creates a GitHub issue with the broken links.
- * The script should be run from the root of the WOT-terms repository.
+ * @file This file checks all links on the Keridoc site and reports broken links. It also creates a GitHub issue with the broken links.
+ * The script should be run from the root of the Keridoc repository.
  * Environment: NodeJS
  * Usage: 
  * $ node findBrokenLinks.js
@@ -23,6 +23,7 @@ const path = require('path');
 
 const siteUrl = 'https://weboftrust.github.io/keridoc';
 const baseUrl = 'https://weboftrust.github.io';
+const repoName = 'keridoc';
 
 const outputDirectory = path.join(__dirname, '../logs');
 const outputFileName = 'brokenLinks.md';
@@ -124,7 +125,7 @@ const siteChecker = new SiteChecker({
 
         octokit.request('POST /repos/WebOfTrustkeridocissues', {
             owner: 'WebOfTrust',
-            repo: 'WOT-terms',
+            repo: repoName,
             title: issueData.title,
             body: issueData.body,
             // labels: [
