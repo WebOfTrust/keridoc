@@ -103,7 +103,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'how-we-did/cheat-sheet-writing-page',
+            docId: 'how-we-did/keridoc/cheat-sheet-writing-page',
             position: 'left',
             label: 'For contributors to this website',
           },
