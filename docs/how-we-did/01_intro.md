@@ -4,17 +4,21 @@ status: draft
 
 import Kerisse from '/img/kerisse.svg';
 
-# WOT How we did's
+# Intro
 
 This is a source directory that explains how this site came to be and how it can be maintained.
 
 ## What is this?
-In *how-we-did* we document 'the making of' this site that consists of 
+
+In *how-we-did* we document 'the making of' this site that consists of
+
 - data; which we call WOT-terminology or **WOT-terms**
 - functionality; which we call **KERISSE**
 
 ## WOT-terms
+
 Is the data part of this site and consists of:
+
 - whitepapers
 - code of the KERI Suite
 - Glossary
@@ -24,12 +28,15 @@ Is the data part of this site and consists of:
 - etc
 
 ## KERISSE
+
 - Typesense Search Engine
 - Artificial Intelligence chatBot; ONHOLD 2023
 - Docusaurus static site functionality
 
 ## How we did
+
 ...answers questions like:
+
 - why did we make these things listed above
 - how to create the result step by step
 - how to update the result step by step
