@@ -1,6 +1,6 @@
 # Kerific Bookmarklet and Chrome Extension
 
-<video src='../../video/kerific-explainer-1.mp4' controls muted autoplay loop></video>
+<video src='../../../video/kerific-explainer-1.mp4' controls muted autoplay loop></video>
 
 ## General
 
