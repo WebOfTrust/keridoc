@@ -6,10 +6,10 @@ Status: final
 
 These are the redirects that can be used:
 
-- kerisse.org ==> <https://weboftrust.github.io/kerisse/>
-- glossary.kerisse.org ==> <https://weboftrust.github.io/WOT-terms/>
-- search.kerisse.org ==> <https://weboftrust.github.io/kerisse/>
-- doc.kerisse.org ==> <https://weboftrust.github.io/keridoc/>
+- kerisse.org ==> [https://weboftrust.github.io/kerisse/](https://weboftrust.github.io/kerisse/)
+- glossary.kerisse.org ==> [https://weboftrust.github.io/WOT-terms/](https://weboftrust.github.io/WOT-terms/)
+- search.kerisse.org ==> [https://weboftrust.github.io/kerisse/](https://weboftrust.github.io/kerisse/)
+- doc.kerisse.org ==> [https://weboftrust.github.io/keridoc/](https://weboftrust.github.io/keridoc/)
 
 These are configured in the Digistate Admin Panel.
 
