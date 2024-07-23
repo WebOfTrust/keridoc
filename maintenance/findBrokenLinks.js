@@ -116,14 +116,14 @@ const siteChecker = new SiteChecker({
         // Create GitHub issue using Octokit
         const issueData = {
             title: 'Broken Links Report',
-            body: "Created: " + timestamp + "\n\n" + "Number of broken internal links: " + numberOfBrokenLinks + "\n\n" + "<a href='https://github.com/WebOfTrustkeridocblob/main/logs/brokenLinks.md'>See full list of broken internal links</a>.",
+            body: "Created: " + timestamp + "\n\n" + "Number of broken internal links: " + numberOfBrokenLinks + "\n\n" + "<a href='https://github.com/WebOfTrust/keridoc/blob/main/logs/brokenLinks.md'>See full list of broken internal links</a>.",
         };
 
         const octokit = new Octokit({
             auth: githubToken
         });
 
-        octokit.request('POST /repos/WebOfTrustkeridocissues', {
+        octokit.request('POST /repos/WebOfTrust/keridoc/issues', {
             owner: 'WebOfTrust',
             repo: repoName,
             title: issueData.title,
