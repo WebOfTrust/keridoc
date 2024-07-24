@@ -193,7 +193,10 @@ const config = {
                 label: 'KERI Suite Glossary',
                 href: 'https://weboftrust.github.io/WOT-terms/',
               },
-
+              {
+                label: 'Kerific Browser Extension',
+                href: 'https://chromewebstore.google.com/detail/kerific/ckbmkbbmnfbeecfmoiohobcdmopekgmp',
+              },
             ],
           },
         ],
