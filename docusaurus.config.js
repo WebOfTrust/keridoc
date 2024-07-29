@@ -145,7 +145,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'General',
             items: [
               {
                 label: 'Enter Documentation',
