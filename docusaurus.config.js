@@ -124,15 +124,14 @@ const config = {
             position: 'right',
             label: 'KERIDoc',
           },
-
           {
             href: 'https://weboftrust.github.io/WOT-terms/',
-            label: 'KERI Suite Glossary',
+            label: 'KERIGlos',
             position: 'right',
           },
           {
             href: 'https://weboftrust.github.io/kerisse/',
-            label: 'Kerisse',
+            label: 'KERISSE',
             position: 'right',
           },
           {
@@ -149,53 +148,25 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Documentation',
+                label: 'Enter Documentation',
                 to: '/docs/intro/intro',
-              },
-              {
-                label: 'Concepts',
-                to: '/docs/category/concepts',
-              },
-              {
-                label: 'Education',
-                to: '/docs/category/education',
-              },
-              {
-                label: 'Resources',
-                to: '/docs/category/resources',
-              },
-              {
-                label: 'Glossary',
-                to: '/docs/category/glossary',
-              },
-              {
-                label: 'How we did',
-                to: '/docs/category/how-we-did',
-              },
+              }
             ],
           },
           {
-            title: 'More',
+            title: 'KERI Suite',
             items: [
-              // {
-              //  label: 'Blog',
-              //  to: '/blog',
-              // },
               {
-                label: 'GitHub',
-                href: 'https://github.com/weboftrust/keridoc',
+                label: 'KERIDoc',
+                to: '/docs/intro/intro',
               },
               {
-                label: 'Kerisse',
-                href: 'https://weboftrust.github.io/kerisse/',
-              },
-              {
-                label: 'KERI Suite Glossary',
+                label: 'KERIGlos',
                 href: 'https://weboftrust.github.io/WOT-terms/',
               },
               {
-                label: 'Kerific Browser Extension',
-                href: 'https://chromewebstore.google.com/detail/kerific/ckbmkbbmnfbeecfmoiohobcdmopekgmp',
+                label: 'KERISSE',
+                href: 'https://weboftrust.github.io/kerisse/',
               },
             ],
           },
@@ -215,7 +186,21 @@ const config = {
                 href: 'https://github.com/SmithSamuelM/Papers/blob/master/whitepapers/KERI_WP_2.x.web.pdf',
               }
             ],
+          },
+          {
+            title: 'More',
+            items: [
+              {
+                label: 'GitHub',
+                href: 'https://github.com/weboftrust/keridoc',
+              },
+              {
+                label: 'Kerific Browser Extension',
+                href: 'https://chromewebstore.google.com/detail/kerific/ckbmkbbmnfbeecfmoiohobcdmopekgmp',
+              }
+            ]
           }
+
         ],
         // copyright: `Copyright © ${new Date().getFullYear()} Web Of Trust.`,
       },
