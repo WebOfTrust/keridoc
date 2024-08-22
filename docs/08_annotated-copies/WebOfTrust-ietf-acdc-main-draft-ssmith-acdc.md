@@ -6328,7 +6328,7 @@ The highest level of cryptographic security with respect to a cryptographic secr
 
 ## Conventions and Definitions
 
-{::boilerplate bcp14-tagged}
+`{::boilerplate bcp14-tagged}`
 
 - `SAID` - Self-Addressing Identifier - any identifier which is deterministically generated out of the content, digest of the content
 
@@ -6451,7 +6451,7 @@ This document has no IANA actions.
                             
 
 ## Acknowledgments
-{:numbered="false"}
+`{:numbered="false"}`
 
 ACDC community.
 
