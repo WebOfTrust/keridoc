@@ -1,6 +1,11 @@
 # Kerific Bookmarklet and Chrome Extension
 
-<video src='../../../video/kerific-explainer-1.mp4' controls muted autoplay loop></video>
+<video controls>
+  <source src={require('@site/static/video/kerific-explainer-1.mp4').default} type="video/mp4" />
+ Your browser does not support video tags.
+</video>
+
+[Link to the video](/video/kerific-explainer-1.mp4)
 
 ## General
 
