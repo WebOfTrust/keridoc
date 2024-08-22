@@ -209,6 +209,15 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+  plugins: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        // options here
+        hashed: true,
+      },
+    ],
+  ],
   clientModules: [
     require.resolve('./clientModules/showLevels'),
     require.resolve('./clientModules/insertVideo'),
