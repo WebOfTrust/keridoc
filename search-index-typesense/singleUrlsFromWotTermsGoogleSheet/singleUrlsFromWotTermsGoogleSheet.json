@@ -1,5 +1,5 @@
 {
-  "range": "GenericScraper!A1:AD1003",
+  "range": "GenericScraper!A1:AD1004",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -254,6 +254,17 @@
       ".ch \u003e p, .ch \u003e h1, .ch \u003e h2, .ch \u003e h3, .ch \u003e h4, .ch \u003e h5, .ch \u003e h6, .ch \u003e li, .ch \u003e img, .ch \u003e pre, .ch \u003e code"
     ],
     [
+      "https://medium.com/@hvancann/keri-is-not-complex-or-complicated-instead-it-simplifies-da285b20a7db",
+      "Happy Blockchains",
+      "KERI is not complex or complicated. Instead, it simplifies.",
+      "Juli 12, 2024",
+      "Blogposts",
+      "Henk van Cann",
+      "Blogs",
+      "",
+      ".ch \u003e p, .ch \u003e h1, .ch \u003e h2, .ch \u003e h3, .ch \u003e h4, .ch \u003e h5, .ch \u003e h6, .ch \u003e li, .ch \u003e img, .ch \u003e pre, .ch \u003e code"
+    ],
+    [
       "https://rufftimo.medium.com/second-generation-verifiable-credentials-c225d390fe90",
       "Rufftimo",
       "Second-Generation Verifiable Credentials",
@@ -263,6 +274,28 @@
       "Blogs",
       "AIDSecond-Generation Verifiable Credentials",
       ".ch \u003e p, .ch \u003e h1, .ch \u003e h2, .ch \u003e h3, .ch \u003e h4, .ch \u003e h5, .ch \u003e h6, .ch \u003e li, .ch \u003e img, .ch \u003e pre, .ch \u003e code"
+    ],
+    [
+      "https://vleida.substack.com/p/why-we-like-cesr-1-there-will-be",
+      "The vLEIDA Newsletter",
+      "Why we like CESR 1: There will be a lot of cryptography in the future",
+      "Jul 22, 2024",
+      "Blogposts",
+      "Charles Alexander Lanahan",
+      "Blogs",
+      "",
+      "article"
+    ],
+    [
+      "https://vleida.substack.com/p/why-we-like-keri",
+      "The vLEIDA Newsletter",
+      "Why We Like KERI",
+      "May 28, 2024",
+      "Blogposts",
+      "Charles Alexander Lanahan",
+      "Blogs",
+      "",
+      "article"
     ]
   ]
 }
