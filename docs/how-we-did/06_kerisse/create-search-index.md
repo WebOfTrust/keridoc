@@ -67,11 +67,11 @@ Now the new content will be imported into the Typesense system (in the cloud).
 
 Go to the config section: `search-index-typesense/config/`
 
-For manual entries in the search index, see [this Readme](https://github.com/WebOfTrustkeridoc/blob/main/search-index-typesense/config/config-search-index-entries-manual/README.md)
+For manual entries in the search index, see [this Readme](https://github.com/WebOfTrust/keridoc/blob/main/search-index-typesense/config/config-search-index-entries-manual/README.md)
 
-For manual created sitemaps, see [this Readme](https://github.com/WebOfTrustkeridoc/blob/main/search-index-typesense/config/config-sitemaps-exlude-urls/README.md)
+For manual created sitemaps, see [this Readme](https://github.com/WebOfTrust/keridoc/blob/main/search-index-typesense/config/config-sitemaps-exlude-urls/README.md)
 
-For manual created sitemaps, see [this Readme](https://github.com/WebOfTrustkeridoc/blob/main/search-index-typesense/config/config-sitemaps-manual/README.md)
+For manual created sitemaps, see [this Readme](https://github.com/WebOfTrust/keridoc/blob/main/search-index-typesense/config/config-sitemaps-manual/README.md)
 
 It is possible to override search index entries and give them prio in the search results.
 
