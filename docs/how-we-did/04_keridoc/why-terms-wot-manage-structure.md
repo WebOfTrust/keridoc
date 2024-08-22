@@ -182,7 +182,7 @@ By offering "everything we have" about a certain term in one file, a reader is a
 
 Three major applications:
 keridoc/
-Being the home of our terms maintenance, we [load ToIP glossary](../../glossary/load-glossary-weboftrust-in-docusaurus.md) and generate our Docusaurus [static content site](https://weboftrust.github.iokeridoc/) on Github. This whole process is steered with the content in the _Terms WOT manage sheet_.
+Being the home of our terms maintenance, we [load ToIP glossary](../03_glossary/load-glossary-weboftrust-in-docusaurus.md) and generate our Docusaurus [static content site](https://weboftrust.github.iokeridoc/) on Github. This whole process is steered with the content in the _Terms WOT manage sheet_.
 
 Any resource that mentions WebofTrust terms can be much easier enriched with the use of _Terms WOT manage sheet_.
 For example, we can create a [terms link table for any footage](../[https:/github.com/WebOfTrustkeridoc/blob/gh-pages/how-we-did/create-terms-link-table.md](https:/github.com/WebOfTrustkeridoc/blob/gh-pages/how-we-did/create-terms-link-table.md)) from the sheet Terms WOT manage sheet.

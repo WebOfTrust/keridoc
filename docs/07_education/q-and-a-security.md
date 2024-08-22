@@ -209,7 +209,7 @@ The library provides a set of functions to generate unpredictable data, suitable
 
 ## \*Q: What is the main component of KERI's security?
 
-**Key management** is the main component, because every attack on KERI starts with `key compromise`. In KERI that is [strictly defined](../04_glossary/key-compromise.md) and has a few caveats. There are no other attacks possible because KERI has consistent logs that are cryptographic verifiable to the `root-of-trust`, also know as the `public private key pair` used to create the identifier.\
+**Key management** is the main component, because every attack on KERI starts with `key compromise`. In KERI that is [strictly defined](https://weboftrust.github.io/WOT-terms/docs/glossary/key-compromise) and has a few caveats. There are no other attacks possible because KERI has consistent logs that are cryptographic verifiable to the `root-of-trust`, also know as the `public private key pair` used to create the identifier.\
 
 So when we say “key compromise” in KERI we really mean compromise of **one of these three things**:
 Three infrastructures that are included in “key management” systems that must be protected.
@@ -623,7 +623,7 @@ _(@henkvancann)_
 
 ## \*\*Q: How do I create a KEL?
 
-By a key [`inception event`](../04_glossary/inception-event.md). A controller creates a key pair and binds this to his/her KERI identifier.
+By a key [`inception event`](https://weboftrust.github.io/WOT-terms/docs/glossary/inception-event). A controller creates a key pair and binds this to his/her KERI identifier.
 There will be wallet software and an API available in the course of code development and also a DID scheme (DID:UN) that invokes calls to those APIs during resolution of the DID.\
 _(@henkvancann)_
 
