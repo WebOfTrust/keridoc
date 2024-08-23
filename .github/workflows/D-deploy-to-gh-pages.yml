@@ -2,10 +2,10 @@
 
 name: D - Deploy to GitHub Pages
 on:
-  # A: Triggered on push to the main branch:
-  # push:
-  #   branches:
-  #     - main
+  A: Triggered on push to the main branch:
+  push:
+    branches:
+      - main
 
   # B: Triggered on manual workflow dispatch:
   workflow_dispatch:

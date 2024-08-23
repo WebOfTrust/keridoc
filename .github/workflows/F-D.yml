@@ -2,9 +2,9 @@ name: F > D
 
 on:
   # A: Triggered on push to the main branch:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
 
   # B: Triggered on manual workflow dispatch:
   workflow_dispatch:
