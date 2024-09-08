@@ -2,7 +2,7 @@
 
 name: D - Deploy to GitHub Pages
 on:
-  A: Triggered on push to the main branch:
+  # A: Triggered on push to the main branch:
   push:
     branches:
       - main
