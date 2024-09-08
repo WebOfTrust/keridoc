@@ -215,6 +215,7 @@ const config = {
       {
         // options here
         hashed: true,
+        highlightSearchTermsOnTargetPage: true
       },
     ],
   ],
