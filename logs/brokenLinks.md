@@ -1,11 +1,11 @@
 # Broken Links Report
 
-Created: 2024-09-02T03:12:53.376Z
+Created: 2024-09-09T03:14:27.923Z
 
 Total Broken Links Found: 337
 
 ## Broken Link #1:
-[https://weboftrust.github.io/keridoc/docs/glossary/best-available-data-acceptance-mechanism](https://weboftrust.github.io/keridoc/docs/glossary/best-available-data-acceptance-mechanism)
+[https://weboftrust.github.io/keridoc/docs/glossary/authentic-provenance-chain](https://weboftrust.github.io/keridoc/docs/glossary/authentic-provenance-chain)
 
 Found on Pages:
 
@@ -14,7 +14,7 @@ Found on Pages:
 
 
 ## Broken Link #2:
-[https://weboftrust.github.io/keridoc/docs/glossary/autonomic-identifier](https://weboftrust.github.io/keridoc/docs/glossary/autonomic-identifier)
+[https://weboftrust.github.io/keridoc/docs/glossary/authentic-data-container](https://weboftrust.github.io/keridoc/docs/glossary/authentic-data-container)
 
 Found on Pages:
 
@@ -23,7 +23,7 @@ Found on Pages:
 
 
 ## Broken Link #3:
-[https://weboftrust.github.io/keridoc/docs/glossary/authentic-data-container](https://weboftrust.github.io/keridoc/docs/glossary/authentic-data-container)
+[https://weboftrust.github.io/keridoc/docs/glossary/autonomic-identifier](https://weboftrust.github.io/keridoc/docs/glossary/autonomic-identifier)
 
 Found on Pages:
 
@@ -41,42 +41,6 @@ Found on Pages:
 
 
 ## Broken Link #5:
-[https://weboftrust.github.io/keridoc/docs/glossary/authentic-provenance-chain](https://weboftrust.github.io/keridoc/docs/glossary/authentic-provenance-chain)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #6:
-[https://weboftrust.github.io/keridoc/docs/glossary/concise-binary-object-representation](https://weboftrust.github.io/keridoc/docs/glossary/concise-binary-object-representation)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #7:
-[https://weboftrust.github.io/keridoc/docs/glossary/application-programming-interface](https://weboftrust.github.io/keridoc/docs/glossary/application-programming-interface)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #8:
-[https://weboftrust.github.io/keridoc/docs/glossary/chain-link-confidentiality](https://weboftrust.github.io/keridoc/docs/glossary/chain-link-confidentiality)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #9:
 [https://weboftrust.github.io/keridoc/docs/glossary/architectural-decision-record](https://weboftrust.github.io/keridoc/docs/glossary/architectural-decision-record)
 
 Found on Pages:
@@ -85,7 +49,16 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #10:
+## Broken Link #6:
+[https://weboftrust.github.io/keridoc/docs/glossary/application-programming-interface](https://weboftrust.github.io/keridoc/docs/glossary/application-programming-interface)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #7:
 [https://weboftrust.github.io/keridoc/docs/glossary/broken-object-level-authorization](https://weboftrust.github.io/keridoc/docs/glossary/broken-object-level-authorization)
 
 Found on Pages:
@@ -94,61 +67,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #11:
-[https://weboftrust.github.io/keridoc/docs/glossary/certificate-transparency](https://weboftrust.github.io/keridoc/docs/glossary/certificate-transparency)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #12:
-[https://weboftrust.github.io/keridoc/docs/glossary/composable-event-streaming-representation](https://weboftrust.github.io/keridoc/docs/glossary/composable-event-streaming-representation)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #13:
-[https://weboftrust.github.io/keridoc/docs/glossary/RUN](https://weboftrust.github.io/keridoc/docs/glossary/RUN)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #14:
-[https://weboftrust.github.io/keridoc/docs/glossary/designated-authorized-representative](https://weboftrust.github.io/keridoc/docs/glossary/designated-authorized-representative)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #15:
-[https://weboftrust.github.io/keridoc/docs/glossary/authorized-vlei-representative](https://weboftrust.github.io/keridoc/docs/glossary/authorized-vlei-representative)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #16:
-[https://weboftrust.github.io/keridoc/docs/glossary/PRNG](https://weboftrust.github.io/keridoc/docs/glossary/PRNG)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #17:
+## Broken Link #8:
 [https://weboftrust.github.io/keridoc/docs/glossary/byzantine-fault-tolerance](https://weboftrust.github.io/keridoc/docs/glossary/byzantine-fault-tolerance)
 
 Found on Pages:
@@ -157,7 +76,70 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #18:
+## Broken Link #9:
+[https://weboftrust.github.io/keridoc/docs/glossary/authorized-vlei-representative](https://weboftrust.github.io/keridoc/docs/glossary/authorized-vlei-representative)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #10:
+[https://weboftrust.github.io/keridoc/docs/glossary/composable-event-streaming-representation](https://weboftrust.github.io/keridoc/docs/glossary/composable-event-streaming-representation)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #11:
+[https://weboftrust.github.io/keridoc/docs/glossary/best-available-data-acceptance-mechanism](https://weboftrust.github.io/keridoc/docs/glossary/best-available-data-acceptance-mechanism)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #12:
+[https://weboftrust.github.io/keridoc/docs/glossary/RUN](https://weboftrust.github.io/keridoc/docs/glossary/RUN)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #13:
+[https://weboftrust.github.io/keridoc/docs/glossary/chain-link-confidentiality](https://weboftrust.github.io/keridoc/docs/glossary/chain-link-confidentiality)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #14:
+[https://weboftrust.github.io/keridoc/docs/glossary/concise-binary-object-representation](https://weboftrust.github.io/keridoc/docs/glossary/concise-binary-object-representation)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #15:
+[https://weboftrust.github.io/keridoc/docs/glossary/PRNG](https://weboftrust.github.io/keridoc/docs/glossary/PRNG)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #16:
 [https://weboftrust.github.io/keridoc/docs/glossary/directed-acyclic-graph](https://weboftrust.github.io/keridoc/docs/glossary/directed-acyclic-graph)
 
 Found on Pages:
@@ -166,7 +148,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #19:
+## Broken Link #17:
 [https://weboftrust.github.io/keridoc/docs/glossary/duplicitous-event-log](https://weboftrust.github.io/keridoc/docs/glossary/duplicitous-event-log)
 
 Found on Pages:
@@ -175,8 +157,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #20:
-[https://weboftrust.github.io/keridoc/docs/glossary/engagement-context-role](https://weboftrust.github.io/keridoc/docs/glossary/engagement-context-role)
+## Broken Link #18:
+[https://weboftrust.github.io/keridoc/docs/glossary/certificate-transparency](https://weboftrust.github.io/keridoc/docs/glossary/certificate-transparency)
 
 Found on Pages:
 
@@ -184,70 +166,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #21:
-[https://weboftrust.github.io/keridoc/docs/glossary/run-off-the-crud](https://weboftrust.github.io/keridoc/docs/glossary/run-off-the-crud)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #22:
-[https://weboftrust.github.io/keridoc/docs/glossary/foreign-function-interface](https://weboftrust.github.io/keridoc/docs/glossary/foreign-function-interface)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #23:
-[https://weboftrust.github.io/keridoc/docs/glossary/gnu-privacy-guard](https://weboftrust.github.io/keridoc/docs/glossary/gnu-privacy-guard)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #24:
-[https://weboftrust.github.io/keridoc/docs/glossary/gleif-authorized-representative](https://weboftrust.github.io/keridoc/docs/glossary/gleif-authorized-representative)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #25:
-[https://weboftrust.github.io/keridoc/docs/glossary/decentralized-key-management-infrastructure](https://weboftrust.github.io/keridoc/docs/glossary/decentralized-key-management-infrastructure)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #26:
-[https://weboftrust.github.io/keridoc/docs/glossary/hardware-security-module](https://weboftrust.github.io/keridoc/docs/glossary/hardware-security-module)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #27:
-[https://weboftrust.github.io/keridoc/docs/glossary/input-output](https://weboftrust.github.io/keridoc/docs/glossary/input-output)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #28:
+## Broken Link #19:
 [https://weboftrust.github.io/keridoc/docs/glossary/distributed-hash-table](https://weboftrust.github.io/keridoc/docs/glossary/distributed-hash-table)
 
 Found on Pages:
@@ -256,8 +175,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #29:
-[https://weboftrust.github.io/keridoc/docs/glossary/internet-assigned-numbers-authority](https://weboftrust.github.io/keridoc/docs/glossary/internet-assigned-numbers-authority)
+## Broken Link #20:
+[https://weboftrust.github.io/keridoc/docs/glossary/designated-authorized-representative](https://weboftrust.github.io/keridoc/docs/glossary/designated-authorized-representative)
 
 Found on Pages:
 
@@ -265,7 +184,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #30:
+## Broken Link #21:
 [https://weboftrust.github.io/keridoc/docs/glossary/end-to-end](https://weboftrust.github.io/keridoc/docs/glossary/end-to-end)
 
 Found on Pages:
@@ -274,8 +193,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #31:
-[https://weboftrust.github.io/keridoc/docs/glossary/keri-agreement-algorithm-for-control-establishment](https://weboftrust.github.io/keridoc/docs/glossary/keri-agreement-algorithm-for-control-establishment)
+## Broken Link #22:
+[https://weboftrust.github.io/keridoc/docs/glossary/run-off-the-crud](https://weboftrust.github.io/keridoc/docs/glossary/run-off-the-crud)
 
 Found on Pages:
 
@@ -283,8 +202,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #32:
-[https://weboftrust.github.io/keridoc/docs/glossary/javascript-object-signing-and-encryption](https://weboftrust.github.io/keridoc/docs/glossary/javascript-object-signing-and-encryption)
+## Broken Link #23:
+[https://weboftrust.github.io/keridoc/docs/glossary/decentralized-key-management-infrastructure](https://weboftrust.github.io/keridoc/docs/glossary/decentralized-key-management-infrastructure)
 
 Found on Pages:
 
@@ -292,8 +211,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #33:
-[https://weboftrust.github.io/keridoc/docs/glossary/signify-keria-request-authentication-protocol](https://weboftrust.github.io/keridoc/docs/glossary/signify-keria-request-authentication-protocol)
+## Broken Link #24:
+[https://weboftrust.github.io/keridoc/docs/glossary/engagement-context-role](https://weboftrust.github.io/keridoc/docs/glossary/engagement-context-role)
 
 Found on Pages:
 
@@ -301,8 +220,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #34:
-[https://weboftrust.github.io/keridoc/docs/glossary/key-event-receipt-infrastructure](https://weboftrust.github.io/keridoc/docs/glossary/key-event-receipt-infrastructure)
+## Broken Link #25:
+[https://weboftrust.github.io/keridoc/docs/glossary/gleif-authorized-representative](https://weboftrust.github.io/keridoc/docs/glossary/gleif-authorized-representative)
 
 Found on Pages:
 
@@ -310,8 +229,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #35:
-[https://weboftrust.github.io/keridoc/docs/glossary/key-event-log](https://weboftrust.github.io/keridoc/docs/glossary/key-event-log)
+## Broken Link #26:
+[https://weboftrust.github.io/keridoc/docs/glossary/foreign-function-interface](https://weboftrust.github.io/keridoc/docs/glossary/foreign-function-interface)
 
 Found on Pages:
 
@@ -319,16 +238,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #36:
-[https://weboftrust.github.io/keridoc/docs/glossary/large-language-model](https://weboftrust.github.io/keridoc/docs/glossary/large-language-model)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #37:
+## Broken Link #27:
 [https://weboftrust.github.io/keridoc/docs/glossary/issuance-and-presentation-exchange-protocol](https://weboftrust.github.io/keridoc/docs/glossary/issuance-and-presentation-exchange-protocol)
 
 Found on Pages:
@@ -337,8 +247,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #38:
-[https://weboftrust.github.io/keridoc/docs/glossary/keri-suite-search-engine](https://weboftrust.github.io/keridoc/docs/glossary/keri-suite-search-engine)
+## Broken Link #28:
+[https://weboftrust.github.io/keridoc/docs/glossary/gnu-privacy-guard](https://weboftrust.github.io/keridoc/docs/glossary/gnu-privacy-guard)
 
 Found on Pages:
 
@@ -346,8 +256,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #39:
-[https://weboftrust.github.io/keridoc/docs/glossary/legitimized-human-meaningful-identifier](https://weboftrust.github.io/keridoc/docs/glossary/legitimized-human-meaningful-identifier)
+## Broken Link #29:
+[https://weboftrust.github.io/keridoc/docs/glossary/input-output](https://weboftrust.github.io/keridoc/docs/glossary/input-output)
 
 Found on Pages:
 
@@ -355,7 +265,34 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #40:
+## Broken Link #30:
+[https://weboftrust.github.io/keridoc/docs/glossary/key-event-log](https://weboftrust.github.io/keridoc/docs/glossary/key-event-log)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #31:
+[https://weboftrust.github.io/keridoc/docs/glossary/hardware-security-module](https://weboftrust.github.io/keridoc/docs/glossary/hardware-security-module)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #32:
+[https://weboftrust.github.io/keridoc/docs/glossary/signify-keria-request-authentication-protocol](https://weboftrust.github.io/keridoc/docs/glossary/signify-keria-request-authentication-protocol)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #33:
 [https://weboftrust.github.io/keridoc/docs/glossary/keri-improvement-doc](https://weboftrust.github.io/keridoc/docs/glossary/keri-improvement-doc)
 
 Found on Pages:
@@ -364,7 +301,61 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #41:
+## Broken Link #34:
+[https://weboftrust.github.io/keridoc/docs/glossary/internet-assigned-numbers-authority](https://weboftrust.github.io/keridoc/docs/glossary/internet-assigned-numbers-authority)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #35:
+[https://weboftrust.github.io/keridoc/docs/glossary/javascript-object-signing-and-encryption](https://weboftrust.github.io/keridoc/docs/glossary/javascript-object-signing-and-encryption)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #36:
+[https://weboftrust.github.io/keridoc/docs/glossary/legitimized-human-meaningful-identifier](https://weboftrust.github.io/keridoc/docs/glossary/legitimized-human-meaningful-identifier)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #37:
+[https://weboftrust.github.io/keridoc/docs/glossary/large-language-model](https://weboftrust.github.io/keridoc/docs/glossary/large-language-model)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #38:
+[https://weboftrust.github.io/keridoc/docs/glossary/keri-agreement-algorithm-for-control-establishment](https://weboftrust.github.io/keridoc/docs/glossary/keri-agreement-algorithm-for-control-establishment)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #39:
+[https://weboftrust.github.io/keridoc/docs/glossary/key-event-receipt-infrastructure](https://weboftrust.github.io/keridoc/docs/glossary/key-event-receipt-infrastructure)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #40:
 [https://weboftrust.github.io/keridoc/docs/glossary/loci-of-control](https://weboftrust.github.io/keridoc/docs/glossary/loci-of-control)
 
 Found on Pages:
@@ -373,70 +364,16 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
+## Broken Link #41:
+[https://weboftrust.github.io/keridoc/docs/glossary/keri-suite-search-engine](https://weboftrust.github.io/keridoc/docs/glossary/keri-suite-search-engine)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
 ## Broken Link #42:
-[https://weboftrust.github.io/keridoc/docs/glossary/levels-of-assurance](https://weboftrust.github.io/keridoc/docs/glossary/levels-of-assurance)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #43:
-[https://weboftrust.github.io/keridoc/docs/glossary/non-fungible-token](https://weboftrust.github.io/keridoc/docs/glossary/non-fungible-token)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #44:
-[https://weboftrust.github.io/keridoc/docs/glossary/multi-factor-authentication](https://weboftrust.github.io/keridoc/docs/glossary/multi-factor-authentication)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #45:
-[https://weboftrust.github.io/keridoc/docs/glossary/pretty-good-privacy](https://weboftrust.github.io/keridoc/docs/glossary/pretty-good-privacy)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #46:
-[https://weboftrust.github.io/keridoc/docs/glossary/official-organizational-role](https://weboftrust.github.io/keridoc/docs/glossary/official-organizational-role)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #47:
-[https://weboftrust.github.io/keridoc/docs/glossary/key-event-receipt-log](https://weboftrust.github.io/keridoc/docs/glossary/key-event-receipt-log)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #48:
-[https://weboftrust.github.io/keridoc/docs/glossary/media-type](https://weboftrust.github.io/keridoc/docs/glossary/media-type)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #49:
 [https://weboftrust.github.io/keridoc/docs/glossary/keri-request-authentication-method](https://weboftrust.github.io/keridoc/docs/glossary/keri-request-authentication-method)
 
 Found on Pages:
@@ -445,8 +382,71 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
+## Broken Link #43:
+[https://weboftrust.github.io/keridoc/docs/glossary/official-organizational-role](https://weboftrust.github.io/keridoc/docs/glossary/official-organizational-role)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #44:
+[https://weboftrust.github.io/keridoc/docs/glossary/key-event-receipt-log](https://weboftrust.github.io/keridoc/docs/glossary/key-event-receipt-log)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #45:
+[https://weboftrust.github.io/keridoc/docs/glossary/non-fungible-token](https://weboftrust.github.io/keridoc/docs/glossary/non-fungible-token)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #46:
+[https://weboftrust.github.io/keridoc/docs/glossary/levels-of-assurance](https://weboftrust.github.io/keridoc/docs/glossary/levels-of-assurance)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #47:
+[https://weboftrust.github.io/keridoc/docs/glossary/public-key-infrastructure](https://weboftrust.github.io/keridoc/docs/glossary/public-key-infrastructure)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #48:
+[https://weboftrust.github.io/keridoc/docs/glossary/peer-to-peer](https://weboftrust.github.io/keridoc/docs/glossary/peer-to-peer)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #49:
+[https://weboftrust.github.io/keridoc/docs/glossary/multi-factor-authentication](https://weboftrust.github.io/keridoc/docs/glossary/multi-factor-authentication)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
 ## Broken Link #50:
-[https://weboftrust.github.io/keridoc/docs/glossary/out-of-band-introduction](https://weboftrust.github.io/keridoc/docs/glossary/out-of-band-introduction)
+[https://weboftrust.github.io/keridoc/docs/glossary/pretty-good-privacy](https://weboftrust.github.io/keridoc/docs/glossary/pretty-good-privacy)
 
 Found on Pages:
 
@@ -455,7 +455,7 @@ Found on Pages:
 
 
 ## Broken Link #51:
-[https://weboftrust.github.io/keridoc/docs/glossary/percolated-information-discovery](https://weboftrust.github.io/keridoc/docs/glossary/percolated-information-discovery)
+[https://weboftrust.github.io/keridoc/docs/glossary/media-type](https://weboftrust.github.io/keridoc/docs/glossary/media-type)
 
 Found on Pages:
 
@@ -473,7 +473,7 @@ Found on Pages:
 
 
 ## Broken Link #53:
-[https://weboftrust.github.io/keridoc/docs/glossary/peer-to-peer](https://weboftrust.github.io/keridoc/docs/glossary/peer-to-peer)
+[https://weboftrust.github.io/keridoc/docs/glossary/out-of-band-introduction](https://weboftrust.github.io/keridoc/docs/glossary/out-of-band-introduction)
 
 Found on Pages:
 
@@ -482,15 +482,6 @@ Found on Pages:
 
 
 ## Broken Link #54:
-[https://weboftrust.github.io/keridoc/docs/glossary/CSPRNG](https://weboftrust.github.io/keridoc/docs/glossary/CSPRNG)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #55:
 [https://weboftrust.github.io/keridoc/docs/glossary/CRUD](https://weboftrust.github.io/keridoc/docs/glossary/CRUD)
 
 Found on Pages:
@@ -499,8 +490,17 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
+## Broken Link #55:
+[https://weboftrust.github.io/keridoc/docs/glossary/CSPRNG](https://weboftrust.github.io/keridoc/docs/glossary/CSPRNG)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
 ## Broken Link #56:
-[https://weboftrust.github.io/keridoc/docs/glossary/public-key-infrastructure](https://weboftrust.github.io/keridoc/docs/glossary/public-key-infrastructure)
+[https://weboftrust.github.io/keridoc/docs/glossary/percolated-information-discovery](https://weboftrust.github.io/keridoc/docs/glossary/percolated-information-discovery)
 
 Found on Pages:
 
@@ -509,51 +509,6 @@ Found on Pages:
 
 
 ## Broken Link #57:
-[https://weboftrust.github.io/keridoc/docs/glossary/self-addressing-identifier](https://weboftrust.github.io/keridoc/docs/glossary/self-addressing-identifier)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #58:
-[https://weboftrust.github.io/keridoc/docs/glossary/secure-asset-transfer-protocol](https://weboftrust.github.io/keridoc/docs/glossary/secure-asset-transfer-protocol)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #59:
-[https://weboftrust.github.io/keridoc/docs/glossary/self-certifying-identifier](https://weboftrust.github.io/keridoc/docs/glossary/self-certifying-identifier)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #60:
-[https://weboftrust.github.io/keridoc/docs/glossary/simple-keri-for-web-auth](https://weboftrust.github.io/keridoc/docs/glossary/simple-keri-for-web-auth)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #61:
-[https://weboftrust.github.io/keridoc/docs/glossary/root-autonomic-identifier](https://weboftrust.github.io/keridoc/docs/glossary/root-autonomic-identifier)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #62:
 [https://weboftrust.github.io/keridoc/docs/glossary/qualified-vlei-issuer](https://weboftrust.github.io/keridoc/docs/glossary/qualified-vlei-issuer)
 
 Found on Pages:
@@ -562,7 +517,16 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #63:
+## Broken Link #58:
+[https://weboftrust.github.io/keridoc/docs/glossary/self-addressing-identifier](https://weboftrust.github.io/keridoc/docs/glossary/self-addressing-identifier)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #59:
 [https://weboftrust.github.io/keridoc/docs/glossary/self-addressing-data](https://weboftrust.github.io/keridoc/docs/glossary/self-addressing-data)
 
 Found on Pages:
@@ -571,8 +535,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #64:
-[https://weboftrust.github.io/keridoc/docs/glossary/secure-private-authentic-confidentiality](https://weboftrust.github.io/keridoc/docs/glossary/secure-private-authentic-confidentiality)
+## Broken Link #60:
+[https://weboftrust.github.io/keridoc/docs/glossary/root-autonomic-identifier](https://weboftrust.github.io/keridoc/docs/glossary/root-autonomic-identifier)
 
 Found on Pages:
 
@@ -580,7 +544,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #65:
+## Broken Link #61:
 [https://weboftrust.github.io/keridoc/docs/glossary/public-transaction-event-log](https://weboftrust.github.io/keridoc/docs/glossary/public-transaction-event-log)
 
 Found on Pages:
@@ -589,8 +553,45 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #66:
+## Broken Link #62:
+[https://weboftrust.github.io/keridoc/docs/glossary/secure-asset-transfer-protocol](https://weboftrust.github.io/keridoc/docs/glossary/secure-asset-transfer-protocol)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #63:
+[https://weboftrust.github.io/keridoc/docs/glossary/transmission-control-protocol](https://weboftrust.github.io/keridoc/docs/glossary/transmission-control-protocol)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #64:
 [https://weboftrust.github.io/keridoc/docs/glossary/self-sovereign-identity](https://weboftrust.github.io/keridoc/docs/glossary/self-sovereign-identity)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #65:
+[https://weboftrust.github.io/framework/docs/@essif-lab](https://weboftrust.github.io/framework/docs/@essif-lab)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/glossaries-external/glossary-essiflab/](https://weboftrust.github.io/keridoc/docs/glossaries-external/glossary-essiflab/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #66:
+[https://weboftrust.github.io/keridoc/docs/glossary/self-certifying-identifier](https://weboftrust.github.io/keridoc/docs/glossary/self-certifying-identifier)
 
 Found on Pages:
 
@@ -608,7 +609,7 @@ Found on Pages:
 
 
 ## Broken Link #68:
-[https://weboftrust.github.io/keridoc/docs/glossary/transaction-event-log](https://weboftrust.github.io/keridoc/docs/glossary/transaction-event-log)
+[https://weboftrust.github.io/keridoc/docs/glossary/simple-keri-for-web-auth](https://weboftrust.github.io/keridoc/docs/glossary/simple-keri-for-web-auth)
 
 Found on Pages:
 
@@ -617,7 +618,7 @@ Found on Pages:
 
 
 ## Broken Link #69:
-[https://weboftrust.github.io/keridoc/docs/glossary/transmission-control-protocol](https://weboftrust.github.io/keridoc/docs/glossary/transmission-control-protocol)
+[https://weboftrust.github.io/keridoc/docs/glossary/transaction-event-log](https://weboftrust.github.io/keridoc/docs/glossary/transaction-event-log)
 
 Found on Pages:
 
@@ -626,52 +627,6 @@ Found on Pages:
 
 
 ## Broken Link #70:
-[https://weboftrust.github.io/framework/docs/@essif-lab](https://weboftrust.github.io/framework/docs/@essif-lab)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/glossaries-external/glossary-essiflab/](https://weboftrust.github.io/keridoc/docs/glossaries-external/glossary-essiflab/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #71:
-[https://weboftrust.github.io/keridoc/docs/glossary/trusted-platform-module](https://weboftrust.github.io/keridoc/docs/glossary/trusted-platform-module)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #72:
-[https://weboftrust.github.io/keridoc/docs/glossary/user-interface](https://weboftrust.github.io/keridoc/docs/glossary/user-interface)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #73:
-[https://weboftrust.github.io/keridoc/docs/glossary/uniform-resource-locator](https://weboftrust.github.io/keridoc/docs/glossary/uniform-resource-locator)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #74:
-[https://weboftrust.github.io/keridoc/docs/glossary/verifiable-credential](https://weboftrust.github.io/keridoc/docs/glossary/verifiable-credential)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #75:
 [https://weboftrust.github.io/keridoc/docs/glossary/trust-spanning-protocol](https://weboftrust.github.io/keridoc/docs/glossary/trust-spanning-protocol)
 
 Found on Pages:
@@ -680,7 +635,34 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #76:
+## Broken Link #71:
+[https://weboftrust.github.io/keridoc/docs/glossary/secure-private-authentic-confidentiality](https://weboftrust.github.io/keridoc/docs/glossary/secure-private-authentic-confidentiality)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #72:
+[https://weboftrust.github.io/keridoc/docs/glossary/trusted-platform-module](https://weboftrust.github.io/keridoc/docs/glossary/trusted-platform-module)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #73:
+[https://weboftrust.github.io/keridoc/docs/glossary/user-interface](https://weboftrust.github.io/keridoc/docs/glossary/user-interface)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #74:
 [https://weboftrust.github.io/keridoc/docs/glossary/verifiable-data-structure](https://weboftrust.github.io/keridoc/docs/glossary/verifiable-data-structure)
 
 Found on Pages:
@@ -689,34 +671,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #77:
-[https://weboftrust.github.io/keridoc/docs/glossary/verifiable-identifier](https://weboftrust.github.io/keridoc/docs/glossary/verifiable-identifier)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #78:
-[https://weboftrust.github.io/keridoc/docs/glossary/keria](https://weboftrust.github.io/keridoc/docs/glossary/keria)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #79:
-[https://weboftrust.github.io/keridoc/docs/glossary/hab](https://weboftrust.github.io/keridoc/docs/glossary/hab)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #80:
+## Broken Link #75:
 [https://weboftrust.github.io/keridoc/docs/glossary/virtual-credential-transaction-event-log](https://weboftrust.github.io/keridoc/docs/glossary/virtual-credential-transaction-event-log)
 
 Found on Pages:
@@ -725,8 +680,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #81:
-[https://weboftrust.github.io/keridoc/docs/glossary/API](https://weboftrust.github.io/keridoc/docs/glossary/API)
+## Broken Link #76:
+[https://weboftrust.github.io/keridoc/docs/glossary/uniform-resource-locator](https://weboftrust.github.io/keridoc/docs/glossary/uniform-resource-locator)
 
 Found on Pages:
 
@@ -734,16 +689,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #82:
-[https://weboftrust.github.io/keridoc/docs/glossary/extensible-business-reporting-language](https://weboftrust.github.io/keridoc/docs/glossary/extensible-business-reporting-language)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #83:
+## Broken Link #77:
 [https://weboftrust.github.io/keridoc/docs/glossary/trusted-execution-environment](https://weboftrust.github.io/keridoc/docs/glossary/trusted-execution-environment)
 
 Found on Pages:
@@ -752,8 +698,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #84:
-[https://weboftrust.github.io/keridoc/docs/glossary/reputational-trust](https://weboftrust.github.io/keridoc/docs/glossary/reputational-trust)
+## Broken Link #78:
+[https://weboftrust.github.io/keridoc/docs/glossary/verifiable-identifier](https://weboftrust.github.io/keridoc/docs/glossary/verifiable-identifier)
 
 Found on Pages:
 
@@ -761,8 +707,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #85:
-[https://weboftrust.github.io/keridoc/docs/glossary/registration-interaction](https://weboftrust.github.io/keridoc/docs/glossary/registration-interaction)
+## Broken Link #79:
+[https://weboftrust.github.io/keridoc/docs/glossary/extensible-business-reporting-language](https://weboftrust.github.io/keridoc/docs/glossary/extensible-business-reporting-language)
 
 Found on Pages:
 
@@ -770,7 +716,16 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #86:
+## Broken Link #80:
+[https://weboftrust.github.io/keridoc/docs/glossary/verifiable-credential](https://weboftrust.github.io/keridoc/docs/glossary/verifiable-credential)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #81:
 [https://weboftrust.github.io/keridoc/docs/glossary/agency](https://weboftrust.github.io/keridoc/docs/glossary/agency)
 
 Found on Pages:
@@ -779,8 +734,53 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #87:
+## Broken Link #82:
 [https://weboftrust.github.io/keridoc/docs/glossary/supermajority](https://weboftrust.github.io/keridoc/docs/glossary/supermajority)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #83:
+[https://weboftrust.github.io/keridoc/docs/glossary/registration-interaction](https://weboftrust.github.io/keridoc/docs/glossary/registration-interaction)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #84:
+[https://weboftrust.github.io/keridoc/docs/glossary/hab](https://weboftrust.github.io/keridoc/docs/glossary/hab)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #85:
+[https://weboftrust.github.io/keridoc/docs/glossary/keria](https://weboftrust.github.io/keridoc/docs/glossary/keria)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #86:
+[https://weboftrust.github.io/keridoc/docs/glossary/identity-assurance](https://weboftrust.github.io/keridoc/docs/glossary/identity-assurance)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #87:
+[https://weboftrust.github.io/keridoc/docs/glossary/API](https://weboftrust.github.io/keridoc/docs/glossary/API)
 
 Found on Pages:
 
@@ -798,60 +798,6 @@ Found on Pages:
 
 
 ## Broken Link #89:
-[https://weboftrust.github.io/keridoc/docs/glossary/GLEIF](https://weboftrust.github.io/keridoc/docs/glossary/GLEIF)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #90:
-[https://weboftrust.github.io/keridoc/docs/glossary/identity-assurance](https://weboftrust.github.io/keridoc/docs/glossary/identity-assurance)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #91:
-[https://weboftrust.github.io/keridoc/docs/glossary/provenance](https://weboftrust.github.io/keridoc/docs/glossary/provenance)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #92:
-[https://weboftrust.github.io/keridoc/docs/glossary/root-of-trust](https://weboftrust.github.io/keridoc/docs/glossary/root-of-trust)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #93:
-[https://weboftrust.github.io/WOT-terms/docs/concepts/concepts?level=2](https://weboftrust.github.io/WOT-terms/docs/concepts/concepts?level=2)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #94:
-[https://weboftrust.github.io/keridoc/docs/glossary/authenticity](https://weboftrust.github.io/keridoc/docs/glossary/authenticity)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #95:
 [https://weboftrust.github.io/keridoc/docs/glossary/KAACE](https://weboftrust.github.io/keridoc/docs/glossary/KAACE)
 
 Found on Pages:
@@ -860,8 +806,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #96:
-[https://weboftrust.github.io/keridoc/docs/glossary/veracity](https://weboftrust.github.io/keridoc/docs/glossary/veracity)
+## Broken Link #90:
+[https://weboftrust.github.io/keridoc/docs/glossary/root-of-trust](https://weboftrust.github.io/keridoc/docs/glossary/root-of-trust)
 
 Found on Pages:
 
@@ -869,7 +815,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #97:
+## Broken Link #91:
 [https://weboftrust.github.io/keridoc/docs/glossary/KERI](https://weboftrust.github.io/keridoc/docs/glossary/KERI)
 
 Found on Pages:
@@ -878,8 +824,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #98:
-[https://weboftrust.github.io/keridoc/docs/glossary/security](https://weboftrust.github.io/keridoc/docs/glossary/security)
+## Broken Link #92:
+[https://weboftrust.github.io/keridoc/docs/glossary/reputational-trust](https://weboftrust.github.io/keridoc/docs/glossary/reputational-trust)
 
 Found on Pages:
 
@@ -887,7 +833,34 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #99:
+## Broken Link #93:
+[https://weboftrust.github.io/keridoc/docs/glossary/provenance](https://weboftrust.github.io/keridoc/docs/glossary/provenance)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #94:
+[https://weboftrust.github.io/WOT-terms/docs/concepts/concepts?level=2](https://weboftrust.github.io/WOT-terms/docs/concepts/concepts?level=2)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #95:
+[https://weboftrust.github.io/keridoc/docs/glossary/authenticity](https://weboftrust.github.io/keridoc/docs/glossary/authenticity)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #96:
 [https://weboftrust.github.io/keridoc/docs/glossary/verifiable](https://weboftrust.github.io/keridoc/docs/glossary/verifiable)
 
 Found on Pages:
@@ -896,8 +869,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #100:
-[https://weboftrust.github.io/keridoc/docs/glossary/privacy](https://weboftrust.github.io/keridoc/docs/glossary/privacy)
+## Broken Link #97:
+[https://weboftrust.github.io/keridoc/docs/glossary/veracity](https://weboftrust.github.io/keridoc/docs/glossary/veracity)
 
 Found on Pages:
 
@@ -905,7 +878,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #101:
+## Broken Link #98:
 [https://weboftrust.github.io/keridoc/docs/glossary/authentic-web](https://weboftrust.github.io/keridoc/docs/glossary/authentic-web)
 
 Found on Pages:
@@ -914,7 +887,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #102:
+## Broken Link #99:
 [https://weboftrust.github.io/keridoc/docs/glossary/confidentiality](https://weboftrust.github.io/keridoc/docs/glossary/confidentiality)
 
 Found on Pages:
@@ -923,61 +896,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #103:
-[https://weboftrust.github.io/keridoc/docs/glossary/PKI](https://weboftrust.github.io/keridoc/docs/glossary/PKI)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #104:
-[https://weboftrust.github.io/keridoc/docs/glossary/authority](https://weboftrust.github.io/keridoc/docs/glossary/authority)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #105:
-[https://weboftrust.github.io/keridoc/docs/glossary/DAR](https://weboftrust.github.io/keridoc/docs/glossary/DAR)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #106:
-[https://weboftrust.github.io/keridoc/docs/glossary/verifier](https://weboftrust.github.io/keridoc/docs/glossary/verifier)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #107:
-[https://weboftrust.github.io/keridoc/docs/glossary/pseudo-random-number](https://weboftrust.github.io/keridoc/docs/glossary/pseudo-random-number)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #108:
-[https://weboftrust.github.io/keridoc/docs/glossary/pre-rotation](https://weboftrust.github.io/keridoc/docs/glossary/pre-rotation)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #109:
+## Broken Link #100:
 [https://weboftrust.github.io/keridoc/docs/glossary/source-of-truth](https://weboftrust.github.io/keridoc/docs/glossary/source-of-truth)
 
 Found on Pages:
@@ -986,52 +905,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #110:
-[https://weboftrust.github.io/keridoc/docs/glossary/VC](https://weboftrust.github.io/keridoc/docs/glossary/VC)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #111:
-[https://weboftrust.github.io/keridoc/docs/glossary/authoritative](https://weboftrust.github.io/keridoc/docs/glossary/authoritative)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #112:
-[https://weboftrust.github.io/keridoc/docs/glossary/qualified](https://weboftrust.github.io/keridoc/docs/glossary/qualified)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #113:
-[https://weboftrust.github.io/keridoc/docs/glossary/DID](https://weboftrust.github.io/keridoc/docs/glossary/DID)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #114:
-[https://weboftrust.github.io/keridoc/docs/glossary/issuance-event](https://weboftrust.github.io/keridoc/docs/glossary/issuance-event)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #115:
+## Broken Link #101:
 [https://weboftrust.github.io/keridoc/docs/glossary/verify](https://weboftrust.github.io/keridoc/docs/glossary/verify)
 
 Found on Pages:
@@ -1040,8 +914,134 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #116:
+## Broken Link #102:
+[https://weboftrust.github.io/keridoc/docs/glossary/VC](https://weboftrust.github.io/keridoc/docs/glossary/VC)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #103:
+[https://weboftrust.github.io/keridoc/docs/glossary/privacy](https://weboftrust.github.io/keridoc/docs/glossary/privacy)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #104:
+[https://weboftrust.github.io/keridoc/docs/glossary/GLEIF](https://weboftrust.github.io/keridoc/docs/glossary/GLEIF)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #105:
+[https://weboftrust.github.io/keridoc/docs/glossary/PKI](https://weboftrust.github.io/keridoc/docs/glossary/PKI)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #106:
+[https://weboftrust.github.io/keridoc/docs/glossary/security](https://weboftrust.github.io/keridoc/docs/glossary/security)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #107:
+[https://weboftrust.github.io/keridoc/docs/glossary/DID](https://weboftrust.github.io/keridoc/docs/glossary/DID)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #108:
+[https://weboftrust.github.io/keridoc/docs/glossary/verifier](https://weboftrust.github.io/keridoc/docs/glossary/verifier)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #109:
+[https://weboftrust.github.io/keridoc/docs/glossary/pseudo-random-number](https://weboftrust.github.io/keridoc/docs/glossary/pseudo-random-number)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #110:
+[https://weboftrust.github.io/keridoc/docs/glossary/DAR](https://weboftrust.github.io/keridoc/docs/glossary/DAR)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #111:
+[https://weboftrust.github.io/keridoc/docs/glossary/authority](https://weboftrust.github.io/keridoc/docs/glossary/authority)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #112:
+[https://weboftrust.github.io/keridoc/docs/glossary/authoritative](https://weboftrust.github.io/keridoc/docs/glossary/authoritative)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #113:
+[https://weboftrust.github.io/keridoc/docs/glossary/qualified](https://weboftrust.github.io/keridoc/docs/glossary/qualified)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #114:
+[https://weboftrust.github.io/keridoc/docs/glossary/pre-rotation](https://weboftrust.github.io/keridoc/docs/glossary/pre-rotation)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #115:
 [https://weboftrust.github.io/keridoc/docs/glossary/AID](https://weboftrust.github.io/keridoc/docs/glossary/AID)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #116:
+[https://weboftrust.github.io/keridoc/docs/glossary/issuance-event](https://weboftrust.github.io/keridoc/docs/glossary/issuance-event)
 
 Found on Pages:
 
@@ -1059,7 +1059,7 @@ Found on Pages:
 
 
 ## Broken Link #118:
-[https://weboftrust.github.io/keridoc/docs/glossary/decentralized-identifier](https://weboftrust.github.io/keridoc/docs/glossary/decentralized-identifier)
+[https://weboftrust.github.io/keridoc/docs/glossary/read-update-nullify](https://weboftrust.github.io/keridoc/docs/glossary/read-update-nullify)
 
 Found on Pages:
 
@@ -1068,7 +1068,7 @@ Found on Pages:
 
 
 ## Broken Link #119:
-[https://weboftrust.github.io/keridoc/docs/glossary/identifier](https://weboftrust.github.io/keridoc/docs/glossary/identifier)
+[https://weboftrust.github.io/keridoc/docs/glossary/decentralized-identifier](https://weboftrust.github.io/keridoc/docs/glossary/decentralized-identifier)
 
 Found on Pages:
 
@@ -1086,15 +1086,6 @@ Found on Pages:
 
 
 ## Broken Link #121:
-[https://weboftrust.github.io/keridoc/docs/glossary/cooperative-delegation](https://weboftrust.github.io/keridoc/docs/glossary/cooperative-delegation)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #122:
 [https://weboftrust.github.io/keridoc/docs/glossary/delegation](https://weboftrust.github.io/keridoc/docs/glossary/delegation)
 
 Found on Pages:
@@ -1103,8 +1094,17 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
+## Broken Link #122:
+[https://weboftrust.github.io/keridoc/docs/glossary/identifier](https://weboftrust.github.io/keridoc/docs/glossary/identifier)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
 ## Broken Link #123:
-[https://weboftrust.github.io/keridoc/docs/glossary/authorization](https://weboftrust.github.io/keridoc/docs/glossary/authorization)
+[https://weboftrust.github.io/keridoc/docs/glossary/cooperative-delegation](https://weboftrust.github.io/keridoc/docs/glossary/cooperative-delegation)
 
 Found on Pages:
 
@@ -1113,123 +1113,6 @@ Found on Pages:
 
 
 ## Broken Link #124:
-[https://weboftrust.github.io/keridoc/docs/glossary/univalent](https://weboftrust.github.io/keridoc/docs/glossary/univalent)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #125:
-[https://weboftrust.github.io/keridoc/docs/glossary/URL](https://weboftrust.github.io/keridoc/docs/glossary/URL)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #126:
-[https://weboftrust.github.io/keridoc/docs/glossary/rainbow-table-attack](https://weboftrust.github.io/keridoc/docs/glossary/rainbow-table-attack)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #127:
-[https://weboftrust.github.io/keridoc/docs/glossary/OOBI](https://weboftrust.github.io/keridoc/docs/glossary/OOBI)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #128:
-[https://weboftrust.github.io/keridoc/docs/glossary/read-update-nullify](https://weboftrust.github.io/keridoc/docs/glossary/read-update-nullify)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #129:
-[https://weboftrust.github.io/keridoc/docs/glossary/diger](https://weboftrust.github.io/keridoc/docs/glossary/diger)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #130:
-[https://weboftrust.github.io/keridoc/docs/glossary/entropy](https://weboftrust.github.io/keridoc/docs/glossary/entropy)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #131:
-[https://weboftrust.github.io/keridoc/docs/glossary/verfer](https://weboftrust.github.io/keridoc/docs/glossary/verfer)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #132:
-[https://weboftrust.github.io/keridoc/docs/glossary/signer](https://weboftrust.github.io/keridoc/docs/glossary/signer)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #133:
-[https://weboftrust.github.io/keridoc/docs/glossary/byzantine-agreement](https://weboftrust.github.io/keridoc/docs/glossary/byzantine-agreement)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #134:
-[https://weboftrust.github.io/keridoc/docs/glossary/siger](https://weboftrust.github.io/keridoc/docs/glossary/siger)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #135:
-[https://weboftrust.github.io/keridoc/docs/glossary/parside](https://weboftrust.github.io/keridoc/docs/glossary/parside)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #136:
-[https://weboftrust.github.io/keridoc/docs/glossary/cigar](https://weboftrust.github.io/keridoc/docs/glossary/cigar)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #137:
 [https://weboftrust.github.io/keridoc/docs/glossary/multi-valent](https://weboftrust.github.io/keridoc/docs/glossary/multi-valent)
 
 Found on Pages:
@@ -1238,7 +1121,70 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #138:
+## Broken Link #125:
+[https://weboftrust.github.io/keridoc/docs/glossary/authorization](https://weboftrust.github.io/keridoc/docs/glossary/authorization)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #126:
+[https://weboftrust.github.io/keridoc/docs/glossary/KEL](https://weboftrust.github.io/keridoc/docs/glossary/KEL)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #127:
+[https://weboftrust.github.io/keridoc/docs/glossary/univalent](https://weboftrust.github.io/keridoc/docs/glossary/univalent)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #128:
+[https://weboftrust.github.io/keridoc/docs/glossary/rainbow-table-attack](https://weboftrust.github.io/keridoc/docs/glossary/rainbow-table-attack)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #129:
+[https://weboftrust.github.io/keridoc/docs/glossary/byzantine-agreement](https://weboftrust.github.io/keridoc/docs/glossary/byzantine-agreement)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #130:
+[https://weboftrust.github.io/keridoc/docs/glossary/OOBI](https://weboftrust.github.io/keridoc/docs/glossary/OOBI)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #131:
+[https://weboftrust.github.io/keridoc/docs/glossary/siger](https://weboftrust.github.io/keridoc/docs/glossary/siger)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #132:
 [https://weboftrust.github.io/keridoc/docs/glossary/salter](https://weboftrust.github.io/keridoc/docs/glossary/salter)
 
 Found on Pages:
@@ -1247,8 +1193,62 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
+## Broken Link #133:
+[https://weboftrust.github.io/keridoc/docs/glossary/verfer](https://weboftrust.github.io/keridoc/docs/glossary/verfer)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #134:
+[https://weboftrust.github.io/keridoc/docs/glossary/base64](https://weboftrust.github.io/keridoc/docs/glossary/base64)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #135:
+[https://weboftrust.github.io/keridoc/docs/glossary/cigar](https://weboftrust.github.io/keridoc/docs/glossary/cigar)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #136:
+[https://weboftrust.github.io/keridoc/docs/glossary/URL](https://weboftrust.github.io/keridoc/docs/glossary/URL)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #137:
+[https://weboftrust.github.io/keridoc/docs/glossary/signer](https://weboftrust.github.io/keridoc/docs/glossary/signer)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #138:
+[https://weboftrust.github.io/keridoc/docs/glossary/entropy](https://weboftrust.github.io/keridoc/docs/glossary/entropy)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
 ## Broken Link #139:
-[https://weboftrust.github.io/keridoc/docs/glossary/self-framing](https://weboftrust.github.io/keridoc/docs/glossary/self-framing)
+[https://weboftrust.github.io/keridoc/docs/glossary/diger](https://weboftrust.github.io/keridoc/docs/glossary/diger)
 
 Found on Pages:
 
@@ -1257,7 +1257,7 @@ Found on Pages:
 
 
 ## Broken Link #140:
-[https://weboftrust.github.io/keridoc/docs/glossary/discloser](https://weboftrust.github.io/keridoc/docs/glossary/discloser)
+[https://weboftrust.github.io/keridoc/docs/glossary/agent](https://weboftrust.github.io/keridoc/docs/glossary/agent)
 
 Found on Pages:
 
@@ -1266,7 +1266,7 @@ Found on Pages:
 
 
 ## Broken Link #141:
-[https://weboftrust.github.io/keridoc/docs/glossary/indexed-signature](https://weboftrust.github.io/keridoc/docs/glossary/indexed-signature)
+[https://weboftrust.github.io/keridoc/docs/glossary/presentation-exchange](https://weboftrust.github.io/keridoc/docs/glossary/presentation-exchange)
 
 Found on Pages:
 
@@ -1275,7 +1275,7 @@ Found on Pages:
 
 
 ## Broken Link #142:
-[https://weboftrust.github.io/keridoc/docs/glossary/KEL](https://weboftrust.github.io/keridoc/docs/glossary/KEL)
+[https://weboftrust.github.io/keridoc/docs/glossary/discloser](https://weboftrust.github.io/keridoc/docs/glossary/discloser)
 
 Found on Pages:
 
@@ -1293,7 +1293,7 @@ Found on Pages:
 
 
 ## Broken Link #144:
-[https://weboftrust.github.io/keridoc/docs/glossary/presentation-exchange](https://weboftrust.github.io/keridoc/docs/glossary/presentation-exchange)
+[https://weboftrust.github.io/keridoc/docs/glossary/self-framing](https://weboftrust.github.io/keridoc/docs/glossary/self-framing)
 
 Found on Pages:
 
@@ -1302,7 +1302,7 @@ Found on Pages:
 
 
 ## Broken Link #145:
-[https://weboftrust.github.io/keridoc/docs/glossary/base64](https://weboftrust.github.io/keridoc/docs/glossary/base64)
+[https://weboftrust.github.io/keridoc/docs/glossary/code-table](https://weboftrust.github.io/keridoc/docs/glossary/code-table)
 
 Found on Pages:
 
@@ -1311,7 +1311,7 @@ Found on Pages:
 
 
 ## Broken Link #146:
-[https://weboftrust.github.io/keridoc/docs/glossary/most-compact](https://weboftrust.github.io/keridoc/docs/glossary/most-compact)
+[https://weboftrust.github.io/keridoc/docs/glossary/parside](https://weboftrust.github.io/keridoc/docs/glossary/parside)
 
 Found on Pages:
 
@@ -1320,7 +1320,7 @@ Found on Pages:
 
 
 ## Broken Link #147:
-[https://weboftrust.github.io/keridoc/docs/glossary/code-table](https://weboftrust.github.io/keridoc/docs/glossary/code-table)
+[https://weboftrust.github.io/keridoc/docs/glossary/fully-compact](https://weboftrust.github.io/keridoc/docs/glossary/fully-compact)
 
 Found on Pages:
 
@@ -1338,7 +1338,7 @@ Found on Pages:
 
 
 ## Broken Link #149:
-[https://weboftrust.github.io/keridoc/docs/glossary/agent](https://weboftrust.github.io/keridoc/docs/glossary/agent)
+[https://weboftrust.github.io/keridoc/docs/glossary/indexed-signature](https://weboftrust.github.io/keridoc/docs/glossary/indexed-signature)
 
 Found on Pages:
 
@@ -1347,7 +1347,7 @@ Found on Pages:
 
 
 ## Broken Link #150:
-[https://weboftrust.github.io/keridoc/docs/glossary/fully-compact](https://weboftrust.github.io/keridoc/docs/glossary/fully-compact)
+[https://weboftrust.github.io/keridoc/docs/glossary/SAID](https://weboftrust.github.io/keridoc/docs/glossary/SAID)
 
 Found on Pages:
 
@@ -1356,15 +1356,6 @@ Found on Pages:
 
 
 ## Broken Link #151:
-[https://weboftrust.github.io/keridoc/docs/glossary/issuer](https://weboftrust.github.io/keridoc/docs/glossary/issuer)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #152:
 [https://weboftrust.github.io/keridoc/docs/glossary/top-level-section](https://weboftrust.github.io/keridoc/docs/glossary/top-level-section)
 
 Found on Pages:
@@ -1373,8 +1364,17 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #153:
+## Broken Link #152:
 [https://weboftrust.github.io/keridoc/docs/glossary/SAD](https://weboftrust.github.io/keridoc/docs/glossary/SAD)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #153:
+[https://weboftrust.github.io/keridoc/docs/glossary/text-binary-concatenation-composability](https://weboftrust.github.io/keridoc/docs/glossary/text-binary-concatenation-composability)
 
 Found on Pages:
 
@@ -1392,33 +1392,6 @@ Found on Pages:
 
 
 ## Broken Link #155:
-[https://weboftrust.github.io/keridoc/docs/glossary/contractually-protected-disclosure](https://weboftrust.github.io/keridoc/docs/glossary/contractually-protected-disclosure)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #156:
-[https://weboftrust.github.io/keridoc/docs/glossary/SAID](https://weboftrust.github.io/keridoc/docs/glossary/SAID)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #157:
-[https://weboftrust.github.io/keridoc/docs/glossary/primitive](https://weboftrust.github.io/keridoc/docs/glossary/primitive)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #158:
 [https://weboftrust.github.io/keridoc/docs/glossary/verified-integrity](https://weboftrust.github.io/keridoc/docs/glossary/verified-integrity)
 
 Found on Pages:
@@ -1427,16 +1400,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #159:
-[https://weboftrust.github.io/keridoc/docs/glossary/text-binary-concatenation-composability](https://weboftrust.github.io/keridoc/docs/glossary/text-binary-concatenation-composability)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #160:
+## Broken Link #156:
 [https://weboftrust.github.io/keridoc/docs/glossary/composable](https://weboftrust.github.io/keridoc/docs/glossary/composable)
 
 Found on Pages:
@@ -1445,25 +1409,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #161:
-[https://weboftrust.github.io/keridoc/docs/glossary/ricardian-contract](https://weboftrust.github.io/keridoc/docs/glossary/ricardian-contract)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #162:
-[https://weboftrust.github.io/keridoc/docs/glossary/cesr-proof-signatures](https://weboftrust.github.io/keridoc/docs/glossary/cesr-proof-signatures)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #163:
+## Broken Link #157:
 [https://weboftrust.github.io/keridoc/docs/glossary/composability](https://weboftrust.github.io/keridoc/docs/glossary/composability)
 
 Found on Pages:
@@ -1472,7 +1418,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #164:
+## Broken Link #158:
 [https://weboftrust.github.io/keridoc/docs/glossary/IPEX](https://weboftrust.github.io/keridoc/docs/glossary/IPEX)
 
 Found on Pages:
@@ -1481,43 +1427,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #165:
-[https://weboftrust.github.io/keridoc/docs/glossary/keripy](https://weboftrust.github.io/keridoc/docs/glossary/keripy)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #166:
-[https://weboftrust.github.io/keridoc/docs/glossary/ACDC](https://weboftrust.github.io/keridoc/docs/glossary/ACDC)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #167:
-[https://weboftrust.github.io/keridoc/docs/glossary/graduated-disclosure](https://weboftrust.github.io/keridoc/docs/glossary/graduated-disclosure)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #168:
-[https://weboftrust.github.io/keridoc/docs/glossary/rotation-event](https://weboftrust.github.io/keridoc/docs/glossary/rotation-event)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #169:
+## Broken Link #159:
 [https://weboftrust.github.io/keridoc/docs/glossary/contingent-disclosure](https://weboftrust.github.io/keridoc/docs/glossary/contingent-disclosure)
 
 Found on Pages:
@@ -1526,7 +1436,16 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #170:
+## Broken Link #160:
+[https://weboftrust.github.io/keridoc/docs/glossary/ACDC](https://weboftrust.github.io/keridoc/docs/glossary/ACDC)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #161:
 [https://weboftrust.github.io/keridoc/docs/glossary/CESR](https://weboftrust.github.io/keridoc/docs/glossary/CESR)
 
 Found on Pages:
@@ -1535,8 +1454,89 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
+## Broken Link #162:
+[https://weboftrust.github.io/keridoc/docs/glossary/primitive](https://weboftrust.github.io/keridoc/docs/glossary/primitive)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #163:
+[https://weboftrust.github.io/keridoc/docs/glossary/ricardian-contract](https://weboftrust.github.io/keridoc/docs/glossary/ricardian-contract)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #164:
+[https://weboftrust.github.io/keridoc/docs/glossary/graduated-disclosure](https://weboftrust.github.io/keridoc/docs/glossary/graduated-disclosure)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #165:
+[https://weboftrust.github.io/keridoc/docs/glossary/contractually-protected-disclosure](https://weboftrust.github.io/keridoc/docs/glossary/contractually-protected-disclosure)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #166:
+[https://weboftrust.github.io/keridoc/docs/glossary/keripy](https://weboftrust.github.io/keridoc/docs/glossary/keripy)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #167:
+[https://weboftrust.github.io/keridoc/docs/glossary/cesr-proof-signatures](https://weboftrust.github.io/keridoc/docs/glossary/cesr-proof-signatures)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #168:
+[https://weboftrust.github.io/keridoc/docs/glossary/most-compact](https://weboftrust.github.io/keridoc/docs/glossary/most-compact)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #169:
+[https://weboftrust.github.io/keridoc/docs/glossary/dual-indexed-codes](https://weboftrust.github.io/keridoc/docs/glossary/dual-indexed-codes)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #170:
+[https://weboftrust.github.io/keridoc/docs/glossary/rotation-event](https://weboftrust.github.io/keridoc/docs/glossary/rotation-event)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
 ## Broken Link #171:
-[https://weboftrust.github.io/keridoc/docs/glossary/key-event](https://weboftrust.github.io/keridoc/docs/glossary/key-event)
+[https://weboftrust.github.io/keridoc/docs/glossary/digest](https://weboftrust.github.io/keridoc/docs/glossary/digest)
 
 Found on Pages:
 
@@ -1545,7 +1545,7 @@ Found on Pages:
 
 
 ## Broken Link #172:
-[https://weboftrust.github.io/keridoc/docs/glossary/multisig](https://weboftrust.github.io/keridoc/docs/glossary/multisig)
+[https://weboftrust.github.io/keridoc/docs/glossary/issuer](https://weboftrust.github.io/keridoc/docs/glossary/issuer)
 
 Found on Pages:
 
@@ -1563,7 +1563,7 @@ Found on Pages:
 
 
 ## Broken Link #174:
-[https://weboftrust.github.io/keridoc/docs/glossary/dual-indexed-codes](https://weboftrust.github.io/keridoc/docs/glossary/dual-indexed-codes)
+[https://weboftrust.github.io/keridoc/docs/glossary/key-event](https://weboftrust.github.io/keridoc/docs/glossary/key-event)
 
 Found on Pages:
 
@@ -1572,7 +1572,7 @@ Found on Pages:
 
 
 ## Broken Link #175:
-[https://weboftrust.github.io/keridoc/docs/glossary/custodial-rotation](https://weboftrust.github.io/keridoc/docs/glossary/custodial-rotation)
+[https://weboftrust.github.io/keridoc/docs/glossary/group-framing-code](https://weboftrust.github.io/keridoc/docs/glossary/group-framing-code)
 
 Found on Pages:
 
@@ -1581,7 +1581,7 @@ Found on Pages:
 
 
 ## Broken Link #176:
-[https://weboftrust.github.io/keridoc/docs/glossary/delegated-identifier](https://weboftrust.github.io/keridoc/docs/glossary/delegated-identifier)
+[https://weboftrust.github.io/keridoc/docs/glossary/custodial-rotation](https://weboftrust.github.io/keridoc/docs/glossary/custodial-rotation)
 
 Found on Pages:
 
@@ -1590,7 +1590,7 @@ Found on Pages:
 
 
 ## Broken Link #177:
-[https://weboftrust.github.io/keridoc/docs/glossary/digest](https://weboftrust.github.io/keridoc/docs/glossary/digest)
+[https://weboftrust.github.io/keridoc/docs/glossary/salt](https://weboftrust.github.io/keridoc/docs/glossary/salt)
 
 Found on Pages:
 
@@ -1599,7 +1599,7 @@ Found on Pages:
 
 
 ## Broken Link #178:
-[https://weboftrust.github.io/keridoc/docs/glossary/signing-authority](https://weboftrust.github.io/keridoc/docs/glossary/signing-authority)
+[https://weboftrust.github.io/keridoc/docs/glossary/controller](https://weboftrust.github.io/keridoc/docs/glossary/controller)
 
 Found on Pages:
 
@@ -1617,7 +1617,7 @@ Found on Pages:
 
 
 ## Broken Link #180:
-[https://weboftrust.github.io/keridoc/docs/glossary/rotation-authority](https://weboftrust.github.io/keridoc/docs/glossary/rotation-authority)
+[https://weboftrust.github.io/keridoc/docs/glossary/delegated-identifier](https://weboftrust.github.io/keridoc/docs/glossary/delegated-identifier)
 
 Found on Pages:
 
@@ -1626,7 +1626,7 @@ Found on Pages:
 
 
 ## Broken Link #181:
-[https://weboftrust.github.io/keridoc/docs/glossary/group-framing-code](https://weboftrust.github.io/keridoc/docs/glossary/group-framing-code)
+[https://weboftrust.github.io/keridoc/docs/glossary/signing-authority](https://weboftrust.github.io/keridoc/docs/glossary/signing-authority)
 
 Found on Pages:
 
@@ -1644,24 +1644,6 @@ Found on Pages:
 
 
 ## Broken Link #183:
-[https://weboftrust.github.io/keridoc/docs/glossary/controller](https://weboftrust.github.io/keridoc/docs/glossary/controller)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #184:
-[https://weboftrust.github.io/keridoc/docs/glossary/key-management](https://weboftrust.github.io/keridoc/docs/glossary/key-management)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #185:
 [https://weboftrust.github.io/keridoc/docs/glossary/digital-signature](https://weboftrust.github.io/keridoc/docs/glossary/digital-signature)
 
 Found on Pages:
@@ -1670,8 +1652,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #186:
-[https://weboftrust.github.io/keridoc/docs/glossary/salt](https://weboftrust.github.io/keridoc/docs/glossary/salt)
+## Broken Link #184:
+[https://weboftrust.github.io/keridoc/docs/glossary/multisig](https://weboftrust.github.io/keridoc/docs/glossary/multisig)
 
 Found on Pages:
 
@@ -1679,61 +1661,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #187:
-[https://weboftrust.github.io/keridoc/docs/glossary/non-transferable-identifier](https://weboftrust.github.io/keridoc/docs/glossary/non-transferable-identifier)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #188:
-[https://weboftrust.github.io/keridoc/docs/glossary/custodial-agent](https://weboftrust.github.io/keridoc/docs/glossary/custodial-agent)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #189:
-[https://weboftrust.github.io/keridoc/docs/glossary/seed](https://weboftrust.github.io/keridoc/docs/glossary/seed)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #190:
-[https://weboftrust.github.io/keridoc/docs/glossary/key-pair](https://weboftrust.github.io/keridoc/docs/glossary/key-pair)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #191:
-[https://weboftrust.github.io/keridoc/docs/glossary/validator](https://weboftrust.github.io/keridoc/docs/glossary/validator)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #192:
-[https://weboftrust.github.io/keridoc/docs/glossary/verification](https://weboftrust.github.io/keridoc/docs/glossary/verification)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #193:
+## Broken Link #185:
 [https://weboftrust.github.io/keridoc/docs/glossary/transferable-identifier](https://weboftrust.github.io/keridoc/docs/glossary/transferable-identifier)
 
 Found on Pages:
@@ -1742,70 +1670,79 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
+## Broken Link #186:
+[https://weboftrust.github.io/keridoc/docs/glossary/non-transferable-identifier](https://weboftrust.github.io/keridoc/docs/glossary/non-transferable-identifier)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #187:
+[https://weboftrust.github.io/keridoc/docs/glossary/seed](https://weboftrust.github.io/keridoc/docs/glossary/seed)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #188:
+[https://weboftrust.github.io/keridoc/docs/glossary/rotation-authority](https://weboftrust.github.io/keridoc/docs/glossary/rotation-authority)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #189:
+[https://weboftrust.github.io/keridoc/docs/glossary/verification](https://weboftrust.github.io/keridoc/docs/glossary/verification)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #190:
+[https://weboftrust.github.io/keridoc/docs/glossary/key-management](https://weboftrust.github.io/keridoc/docs/glossary/key-management)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #191:
+[https://weboftrust.github.io/keridoc/docs/glossary/custodial-agent](https://weboftrust.github.io/keridoc/docs/glossary/custodial-agent)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #192:
+[https://weboftrust.github.io/keridoc/docs/glossary/validator](https://weboftrust.github.io/keridoc/docs/glossary/validator)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #193:
+[https://weboftrust.github.io/keridoc/docs/glossary/key-pair](https://weboftrust.github.io/keridoc/docs/glossary/key-pair)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
 ## Broken Link #194:
-[https://weboftrust.github.io/keridoc/docs/glossary/electronic-signature](https://weboftrust.github.io/keridoc/docs/glossary/electronic-signature)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #195:
-[https://weboftrust.github.io/keridoc/docs/glossary/domain-name](https://weboftrust.github.io/keridoc/docs/glossary/domain-name)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #196:
-[https://weboftrust.github.io/keridoc/docs/glossary/duplicity](https://weboftrust.github.io/keridoc/docs/glossary/duplicity)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #197:
-[https://weboftrust.github.io/keridoc/docs/glossary/cryptocurrency](https://weboftrust.github.io/keridoc/docs/glossary/cryptocurrency)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #198:
-[https://weboftrust.github.io/keridoc/docs/glossary/indirect-mode](https://weboftrust.github.io/keridoc/docs/glossary/indirect-mode)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #199:
-[https://weboftrust.github.io/keridoc/docs/glossary/juror](https://weboftrust.github.io/keridoc/docs/glossary/juror)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #200:
-[https://weboftrust.github.io/keridoc/docs/glossary/inconsistency](https://weboftrust.github.io/keridoc/docs/glossary/inconsistency)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #201:
 [https://weboftrust.github.io/keridoc/docs/glossary/trust-domain](https://weboftrust.github.io/keridoc/docs/glossary/trust-domain)
 
 Found on Pages:
@@ -1814,7 +1751,79 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
+## Broken Link #195:
+[https://weboftrust.github.io/keridoc/docs/glossary/electronic-signature](https://weboftrust.github.io/keridoc/docs/glossary/electronic-signature)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #196:
+[https://weboftrust.github.io/keridoc/docs/glossary/juror](https://weboftrust.github.io/keridoc/docs/glossary/juror)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #197:
+[https://weboftrust.github.io/keridoc/docs/glossary/inconsistency](https://weboftrust.github.io/keridoc/docs/glossary/inconsistency)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #198:
+[https://weboftrust.github.io/keridoc/docs/glossary/duplicity](https://weboftrust.github.io/keridoc/docs/glossary/duplicity)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #199:
+[https://weboftrust.github.io/keridoc/docs/glossary/indirect-mode](https://weboftrust.github.io/keridoc/docs/glossary/indirect-mode)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #200:
+[https://weboftrust.github.io/keridoc/docs/glossary/watcher](https://weboftrust.github.io/keridoc/docs/glossary/watcher)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #201:
+[https://weboftrust.github.io/keridoc/docs/glossary/domain-name](https://weboftrust.github.io/keridoc/docs/glossary/domain-name)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
 ## Broken Link #202:
+[https://weboftrust.github.io/keridoc/docs/glossary/legal-entity](https://weboftrust.github.io/keridoc/docs/glossary/legal-entity)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #203:
 [https://weboftrust.github.io/framework/docs/essifLab-principles](https://weboftrust.github.io/framework/docs/essifLab-principles)
 
 Found on Pages:
@@ -1824,25 +1833,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #203:
-[https://weboftrust.github.io/keridoc/docs/glossary/watcher](https://weboftrust.github.io/keridoc/docs/glossary/watcher)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
 ## Broken Link #204:
-[https://weboftrust.github.io/keridoc/docs/glossary/legal-entity-engagement-context-role-vlei-credential-governance-framework](https://weboftrust.github.io/keridoc/docs/glossary/legal-entity-engagement-context-role-vlei-credential-governance-framework)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #205:
 [https://weboftrust.github.io/keridoc/docs/glossary/selective-disclosure](https://weboftrust.github.io/keridoc/docs/glossary/selective-disclosure)
 
 Found on Pages:
@@ -1851,34 +1842,16 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
+## Broken Link #205:
+[https://weboftrust.github.io/keridoc/docs/glossary/cryptocurrency](https://weboftrust.github.io/keridoc/docs/glossary/cryptocurrency)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
 ## Broken Link #206:
-[https://weboftrust.github.io/keridoc/docs/glossary/legal-entity](https://weboftrust.github.io/keridoc/docs/glossary/legal-entity)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #207:
-[https://weboftrust.github.io/keridoc/docs/glossary/TEL](https://weboftrust.github.io/keridoc/docs/glossary/TEL)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #208:
-[https://weboftrust.github.io/keridoc/docs/glossary/vlei-credential](https://weboftrust.github.io/keridoc/docs/glossary/vlei-credential)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #209:
 [https://weboftrust.github.io/keridoc/docs/glossary/partial-disclosure](https://weboftrust.github.io/keridoc/docs/glossary/partial-disclosure)
 
 Found on Pages:
@@ -1887,8 +1860,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #210:
-[https://weboftrust.github.io/keridoc/docs/glossary/QVI](https://weboftrust.github.io/keridoc/docs/glossary/QVI)
+## Broken Link #207:
+[https://weboftrust.github.io/keridoc/docs/glossary/vlei-credential](https://weboftrust.github.io/keridoc/docs/glossary/vlei-credential)
 
 Found on Pages:
 
@@ -1896,7 +1869,16 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #211:
+## Broken Link #208:
+[https://weboftrust.github.io/keridoc/docs/glossary/TEL](https://weboftrust.github.io/keridoc/docs/glossary/TEL)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #209:
 [https://weboftrust.github.io/keridoc/docs/glossary/field-map](https://weboftrust.github.io/keridoc/docs/glossary/field-map)
 
 Found on Pages:
@@ -1905,7 +1887,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #212:
+## Broken Link #210:
 [https://weboftrust.github.io/keridoc/docs/glossary/vLEI](https://weboftrust.github.io/keridoc/docs/glossary/vLEI)
 
 Found on Pages:
@@ -1914,25 +1896,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #213:
-[https://weboftrust.github.io/keridoc/docs/glossary/compact-variant](https://weboftrust.github.io/keridoc/docs/glossary/compact-variant)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #214:
-[https://weboftrust.github.io/keridoc/docs/glossary/pipelining](https://weboftrust.github.io/keridoc/docs/glossary/pipelining)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #215:
+## Broken Link #211:
 [https://weboftrust.github.io/keridoc/docs/glossary/PGP](https://weboftrust.github.io/keridoc/docs/glossary/PGP)
 
 Found on Pages:
@@ -1941,8 +1905,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #216:
-[https://weboftrust.github.io/keridoc/docs/glossary/concatenation](https://weboftrust.github.io/keridoc/docs/glossary/concatenation)
+## Broken Link #212:
+[https://weboftrust.github.io/keridoc/docs/glossary/QVI](https://weboftrust.github.io/keridoc/docs/glossary/QVI)
 
 Found on Pages:
 
@@ -1950,8 +1914,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #217:
-[https://weboftrust.github.io/keridoc/docs/glossary/multiplexing](https://weboftrust.github.io/keridoc/docs/glossary/multiplexing)
+## Broken Link #213:
+[https://weboftrust.github.io/keridoc/docs/glossary/legal-entity-engagement-context-role-vlei-credential-governance-framework](https://weboftrust.github.io/keridoc/docs/glossary/legal-entity-engagement-context-role-vlei-credential-governance-framework)
 
 Found on Pages:
 
@@ -1959,16 +1923,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #218:
-[https://weboftrust.github.io/keridoc/docs/glossary/habery](https://weboftrust.github.io/keridoc/docs/glossary/habery)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #219:
+## Broken Link #214:
 [https://weboftrust.github.io/keridoc/docs/glossary/count-code](https://weboftrust.github.io/keridoc/docs/glossary/count-code)
 
 Found on Pages:
@@ -1977,8 +1932,53 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
+## Broken Link #215:
+[https://weboftrust.github.io/keridoc/docs/glossary/compact-variant](https://weboftrust.github.io/keridoc/docs/glossary/compact-variant)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #216:
+[https://weboftrust.github.io/keridoc/docs/glossary/multiplexing](https://weboftrust.github.io/keridoc/docs/glossary/multiplexing)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #217:
+[https://weboftrust.github.io/keridoc/docs/glossary/pipelining](https://weboftrust.github.io/keridoc/docs/glossary/pipelining)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #218:
+[https://weboftrust.github.io/keridoc/docs/glossary/attributional-trust](https://weboftrust.github.io/keridoc/docs/glossary/attributional-trust)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #219:
+[https://weboftrust.github.io/keridoc/docs/glossary/habery](https://weboftrust.github.io/keridoc/docs/glossary/habery)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
 ## Broken Link #220:
-[https://weboftrust.github.io/keridoc/docs/glossary/direct-mode](https://weboftrust.github.io/keridoc/docs/glossary/direct-mode)
+[https://weboftrust.github.io/keridoc/docs/glossary/receipt](https://weboftrust.github.io/keridoc/docs/glossary/receipt)
 
 Found on Pages:
 
@@ -1987,7 +1987,7 @@ Found on Pages:
 
 
 ## Broken Link #221:
-[https://weboftrust.github.io/keridoc/docs/glossary/attributional-trust](https://weboftrust.github.io/keridoc/docs/glossary/attributional-trust)
+[https://weboftrust.github.io/keridoc/docs/glossary/concatenation](https://weboftrust.github.io/keridoc/docs/glossary/concatenation)
 
 Found on Pages:
 
@@ -2005,33 +2005,6 @@ Found on Pages:
 
 
 ## Broken Link #223:
-[https://weboftrust.github.io/keridoc/docs/glossary/non-repudiable](https://weboftrust.github.io/keridoc/docs/glossary/non-repudiable)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #224:
-[https://weboftrust.github.io/keridoc/docs/glossary/validate](https://weboftrust.github.io/keridoc/docs/glossary/validate)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #225:
-[https://weboftrust.github.io/keridoc/docs/glossary/receipt](https://weboftrust.github.io/keridoc/docs/glossary/receipt)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #226:
 [https://weboftrust.github.io/keridoc/docs/glossary/KA2CE](https://weboftrust.github.io/keridoc/docs/glossary/KA2CE)
 
 Found on Pages:
@@ -2040,8 +2013,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #227:
-[https://weboftrust.github.io/keridoc/docs/glossary/internal-inconsistency](https://weboftrust.github.io/keridoc/docs/glossary/internal-inconsistency)
+## Broken Link #224:
+[https://weboftrust.github.io/keridoc/docs/glossary/direct-mode](https://weboftrust.github.io/keridoc/docs/glossary/direct-mode)
 
 Found on Pages:
 
@@ -2049,16 +2022,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #228:
-[https://weboftrust.github.io/keridoc/docs/glossary/complementary-integrity-verification](https://weboftrust.github.io/keridoc/docs/glossary/complementary-integrity-verification)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #229:
+## Broken Link #225:
 [https://weboftrust.github.io/keridoc/docs/glossary/non-interactive-authentication-design](https://weboftrust.github.io/keridoc/docs/glossary/non-interactive-authentication-design)
 
 Found on Pages:
@@ -2067,8 +2031,44 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
+## Broken Link #226:
+[https://weboftrust.github.io/keridoc/docs/glossary/validate](https://weboftrust.github.io/keridoc/docs/glossary/validate)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #227:
+[https://weboftrust.github.io/keridoc/docs/glossary/non-repudiable](https://weboftrust.github.io/keridoc/docs/glossary/non-repudiable)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #228:
+[https://weboftrust.github.io/keridoc/docs/glossary/internal-inconsistency](https://weboftrust.github.io/keridoc/docs/glossary/internal-inconsistency)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #229:
+[https://weboftrust.github.io/keridoc/docs/glossary/complementary-integrity-verification](https://weboftrust.github.io/keridoc/docs/glossary/complementary-integrity-verification)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
 ## Broken Link #230:
-[https://weboftrust.github.io/keridoc/docs/glossary/entity](https://weboftrust.github.io/keridoc/docs/glossary/entity)
+[https://weboftrust.github.io/keridoc/docs/glossary/interoperability](https://weboftrust.github.io/keridoc/docs/glossary/interoperability)
 
 Found on Pages:
 
@@ -2077,7 +2077,7 @@ Found on Pages:
 
 
 ## Broken Link #231:
-[https://weboftrust.github.io/keridoc/docs/glossary/interaction-event](https://weboftrust.github.io/keridoc/docs/glossary/interaction-event)
+[https://weboftrust.github.io/keridoc/docs/glossary/entity](https://weboftrust.github.io/keridoc/docs/glossary/entity)
 
 Found on Pages:
 
@@ -2095,7 +2095,7 @@ Found on Pages:
 
 
 ## Broken Link #233:
-[https://weboftrust.github.io/keridoc/docs/glossary/interoperability](https://weboftrust.github.io/keridoc/docs/glossary/interoperability)
+[https://weboftrust.github.io/keridoc/docs/glossary/issuee](https://weboftrust.github.io/keridoc/docs/glossary/issuee)
 
 Found on Pages:
 
@@ -2113,7 +2113,7 @@ Found on Pages:
 
 
 ## Broken Link #235:
-[https://weboftrust.github.io/keridoc/docs/glossary/issuee](https://weboftrust.github.io/keridoc/docs/glossary/issuee)
+[https://weboftrust.github.io/keridoc/docs/glossary/JSON](https://weboftrust.github.io/keridoc/docs/glossary/JSON)
 
 Found on Pages:
 
@@ -2131,7 +2131,7 @@ Found on Pages:
 
 
 ## Broken Link #237:
-[https://weboftrust.github.io/keridoc/docs/glossary/SKWA](https://weboftrust.github.io/keridoc/docs/glossary/SKWA)
+[https://weboftrust.github.io/keridoc/docs/glossary/interaction-event](https://weboftrust.github.io/keridoc/docs/glossary/interaction-event)
 
 Found on Pages:
 
@@ -2140,15 +2140,6 @@ Found on Pages:
 
 
 ## Broken Link #238:
-[https://weboftrust.github.io/keridoc/docs/glossary/SSI](https://weboftrust.github.io/keridoc/docs/glossary/SSI)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #239:
 [https://weboftrust.github.io/keridoc/docs/glossary/KERISSE](https://weboftrust.github.io/keridoc/docs/glossary/KERISSE)
 
 Found on Pages:
@@ -2157,8 +2148,17 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
+## Broken Link #239:
+[https://weboftrust.github.io/keridoc/docs/glossary/SSI](https://weboftrust.github.io/keridoc/docs/glossary/SSI)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
 ## Broken Link #240:
-[https://weboftrust.github.io/keridoc/docs/glossary/JSON](https://weboftrust.github.io/keridoc/docs/glossary/JSON)
+[https://weboftrust.github.io/WOT-terms/docs/dictionary?level=2](https://weboftrust.github.io/WOT-terms/docs/dictionary?level=2)
 
 Found on Pages:
 
@@ -2176,51 +2176,6 @@ Found on Pages:
 
 
 ## Broken Link #242:
-[https://weboftrust.github.io/WOT-terms/docs/dictionary?level=2](https://weboftrust.github.io/WOT-terms/docs/dictionary?level=2)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #243:
-[https://weboftrust.github.io/keridoc/docs/glossary/kerific](https://weboftrust.github.io/keridoc/docs/glossary/kerific)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #244:
-[https://weboftrust.github.io/keridoc/docs/glossary/wallet](https://weboftrust.github.io/keridoc/docs/glossary/wallet)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #245:
-[https://weboftrust.github.io/keridoc/docs/glossary/keep](https://weboftrust.github.io/keridoc/docs/glossary/keep)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #246:
-[https://weboftrust.github.io/keridoc/docs/glossary/pad](https://weboftrust.github.io/keridoc/docs/glossary/pad)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #247:
 [https://weboftrust.github.io/keridoc/docs/glossary/#key-rotation](https://weboftrust.github.io/keridoc/docs/glossary/#key-rotation)
 
 Found on Pages:
@@ -2229,8 +2184,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #248:
-[https://weboftrust.github.io/keridoc/docs/glossary/#safety-properties](https://weboftrust.github.io/keridoc/docs/glossary/#safety-properties)
+## Broken Link #243:
+[https://weboftrust.github.io/keridoc/docs/glossary/SKWA](https://weboftrust.github.io/keridoc/docs/glossary/SKWA)
 
 Found on Pages:
 
@@ -2238,8 +2193,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #249:
-[https://weboftrust.github.io/keridoc/docs/glossary/#keri-agreement-algorithm-for-control-establishment](https://weboftrust.github.io/keridoc/docs/glossary/#keri-agreement-algorithm-for-control-establishment)
+## Broken Link #244:
+[https://weboftrust.github.io/keridoc/docs/glossary/kerific](https://weboftrust.github.io/keridoc/docs/glossary/kerific)
 
 Found on Pages:
 
@@ -2247,7 +2202,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #250:
+## Broken Link #245:
 [https://weboftrust.github.io/keridoc/docs/glossary/keri-command-line-interface](https://weboftrust.github.io/keridoc/docs/glossary/keri-command-line-interface)
 
 Found on Pages:
@@ -2256,16 +2211,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #251:
-[https://weboftrust.github.io/keridoc/docs/glossary/governance-framework](https://weboftrust.github.io/keridoc/docs/glossary/governance-framework)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #252:
+## Broken Link #246:
 [https://weboftrust.github.io/keridoc/docs/glossary/keystore](https://weboftrust.github.io/keridoc/docs/glossary/keystore)
 
 Found on Pages:
@@ -2274,7 +2220,52 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #253:
+## Broken Link #247:
+[https://weboftrust.github.io/keridoc/docs/glossary/wallet](https://weboftrust.github.io/keridoc/docs/glossary/wallet)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #248:
+[https://weboftrust.github.io/keridoc/docs/glossary/keep](https://weboftrust.github.io/keridoc/docs/glossary/keep)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #249:
+[https://weboftrust.github.io/keridoc/docs/glossary/#safety-properties](https://weboftrust.github.io/keridoc/docs/glossary/#safety-properties)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #250:
+[https://weboftrust.github.io/keridoc/docs/glossary/#keri-agreement-algorithm-for-control-establishment](https://weboftrust.github.io/keridoc/docs/glossary/#keri-agreement-algorithm-for-control-establishment)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #251:
+[https://weboftrust.github.io/keridoc/docs/glossary/pad](https://weboftrust.github.io/keridoc/docs/glossary/pad)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #252:
 [https://weboftrust.github.io/keridoc/docs/glossary/pre-pad](https://weboftrust.github.io/keridoc/docs/glossary/pre-pad)
 
 Found on Pages:
@@ -2283,8 +2274,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #254:
-[https://weboftrust.github.io/keridoc/docs/glossary/vlei-role-credential](https://weboftrust.github.io/keridoc/docs/glossary/vlei-role-credential)
+## Broken Link #253:
+[https://weboftrust.github.io/keridoc/docs/glossary/governance-framework](https://weboftrust.github.io/keridoc/docs/glossary/governance-framework)
 
 Found on Pages:
 
@@ -2292,7 +2283,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #255:
+## Broken Link #254:
 [https://weboftrust.github.io/keridoc/docs/glossary/end-verifiable](https://weboftrust.github.io/keridoc/docs/glossary/end-verifiable)
 
 Found on Pages:
@@ -2301,7 +2292,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #256:
+## Broken Link #255:
 [https://weboftrust.github.io/keridoc/docs/glossary/backer](https://weboftrust.github.io/keridoc/docs/glossary/backer)
 
 Found on Pages:
@@ -2310,25 +2301,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #257:
-[https://weboftrust.github.io/keridoc/docs/glossary/hierarchical-composition](https://weboftrust.github.io/keridoc/docs/glossary/hierarchical-composition)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #258:
-[https://weboftrust.github.io/keridoc/docs/glossary/zero-trust](https://weboftrust.github.io/keridoc/docs/glossary/zero-trust)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #259:
+## Broken Link #256:
 [https://weboftrust.github.io/keridoc/docs/glossary/passcode](https://weboftrust.github.io/keridoc/docs/glossary/passcode)
 
 Found on Pages:
@@ -2337,61 +2310,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #260:
-[https://weboftrust.github.io/keridoc/docs/glossary/management-transaction-event-log](https://weboftrust.github.io/keridoc/docs/glossary/management-transaction-event-log)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #261:
-[https://weboftrust.github.io/keridoc/docs/glossary/seal](https://weboftrust.github.io/keridoc/docs/glossary/seal)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #262:
-[https://weboftrust.github.io/keridoc/docs/glossary/interactive-authentication-design](https://weboftrust.github.io/keridoc/docs/glossary/interactive-authentication-design)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #263:
-[https://weboftrust.github.io/keridoc/docs/glossary/non-transferable](https://weboftrust.github.io/keridoc/docs/glossary/non-transferable)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #264:
-[https://weboftrust.github.io/keridoc/docs/glossary/normative](https://weboftrust.github.io/keridoc/docs/glossary/normative)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #265:
-[https://weboftrust.github.io/keridoc/docs/glossary/transferable](https://weboftrust.github.io/keridoc/docs/glossary/transferable)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #266:
+## Broken Link #257:
 [https://weboftrust.github.io/keridoc/docs/glossary/bivalent](https://weboftrust.github.io/keridoc/docs/glossary/bivalent)
 
 Found on Pages:
@@ -2400,7 +2319,70 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #267:
+## Broken Link #258:
+[https://weboftrust.github.io/keridoc/docs/glossary/vlei-role-credential](https://weboftrust.github.io/keridoc/docs/glossary/vlei-role-credential)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #259:
+[https://weboftrust.github.io/keridoc/docs/glossary/management-transaction-event-log](https://weboftrust.github.io/keridoc/docs/glossary/management-transaction-event-log)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #260:
+[https://weboftrust.github.io/keridoc/docs/glossary/normative](https://weboftrust.github.io/keridoc/docs/glossary/normative)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #261:
+[https://weboftrust.github.io/keridoc/docs/glossary/zero-trust](https://weboftrust.github.io/keridoc/docs/glossary/zero-trust)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #262:
+[https://weboftrust.github.io/keridoc/docs/glossary/hierarchical-composition](https://weboftrust.github.io/keridoc/docs/glossary/hierarchical-composition)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #263:
+[https://weboftrust.github.io/keridoc/docs/glossary/interactive-authentication-design](https://weboftrust.github.io/keridoc/docs/glossary/interactive-authentication-design)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #264:
+[https://weboftrust.github.io/keridoc/docs/glossary/transferable](https://weboftrust.github.io/keridoc/docs/glossary/transferable)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #265:
 [https://weboftrust.github.io/keridoc/docs/glossary/lead-bytes](https://weboftrust.github.io/keridoc/docs/glossary/lead-bytes)
 
 Found on Pages:
@@ -2409,16 +2391,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #268:
-[https://weboftrust.github.io/keridoc/docs/glossary/strip-parameter](https://weboftrust.github.io/keridoc/docs/glossary/strip-parameter)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #269:
+## Broken Link #266:
 [https://weboftrust.github.io/keridoc/docs/glossary/opcode](https://weboftrust.github.io/keridoc/docs/glossary/opcode)
 
 Found on Pages:
@@ -2427,8 +2400,8 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #270:
-[https://weboftrust.github.io/keridoc/docs/glossary/group-code](https://weboftrust.github.io/keridoc/docs/glossary/group-code)
+## Broken Link #267:
+[https://weboftrust.github.io/keridoc/docs/glossary/non-transferable](https://weboftrust.github.io/keridoc/docs/glossary/non-transferable)
 
 Found on Pages:
 
@@ -2436,25 +2409,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #271:
-[https://weboftrust.github.io/keridoc/docs/glossary/cesride](https://weboftrust.github.io/keridoc/docs/glossary/cesride)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #272:
-[https://weboftrust.github.io/keridoc/docs/glossary/version-string](https://weboftrust.github.io/keridoc/docs/glossary/version-string)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #273:
+## Broken Link #268:
 [https://weboftrust.github.io/keridoc/docs/glossary/autonomic-identifier-(AID](https://weboftrust.github.io/keridoc/docs/glossary/autonomic-identifier-(AID)
 
 Found on Pages:
@@ -2463,7 +2418,16 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #274:
+## Broken Link #269:
+[https://weboftrust.github.io/keridoc/docs/glossary/seal](https://weboftrust.github.io/keridoc/docs/glossary/seal)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #270:
 [https://weboftrust.github.io/keridoc/docs/glossary/version-code](https://weboftrust.github.io/keridoc/docs/glossary/version-code)
 
 Found on Pages:
@@ -2472,43 +2436,43 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
+## Broken Link #271:
+[https://weboftrust.github.io/keridoc/docs/glossary/group-code](https://weboftrust.github.io/keridoc/docs/glossary/group-code)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #272:
+[https://weboftrust.github.io/keridoc/docs/glossary/strip-parameter](https://weboftrust.github.io/keridoc/docs/glossary/strip-parameter)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #273:
+[https://weboftrust.github.io/keridoc/docs/glossary/cesride](https://weboftrust.github.io/keridoc/docs/glossary/cesride)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #274:
+[https://weboftrust.github.io/keridoc/docs/glossary/version-string](https://weboftrust.github.io/keridoc/docs/glossary/version-string)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
 ## Broken Link #275:
-[https://weboftrust.github.io/keridoc/docs/glossary/reserve-rotation](https://weboftrust.github.io/keridoc/docs/glossary/reserve-rotation)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #276:
-[https://weboftrust.github.io/keridoc/docs/glossary/signing-threshold](https://weboftrust.github.io/keridoc/docs/glossary/signing-threshold)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #277:
-[https://weboftrust.github.io/keridoc/docs/glossary/rotation](https://weboftrust.github.io/keridoc/docs/glossary/rotation)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #278:
-[https://weboftrust.github.io/keridoc/docs/glossary/establishment-event](https://weboftrust.github.io/keridoc/docs/glossary/establishment-event)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #279:
 [https://weboftrust.github.io/keridoc/docs/glossary/sniffer](https://weboftrust.github.io/keridoc/docs/glossary/sniffer)
 
 Found on Pages:
@@ -2517,8 +2481,44 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #280:
+## Broken Link #276:
+[https://weboftrust.github.io/keridoc/docs/glossary/rotation](https://weboftrust.github.io/keridoc/docs/glossary/rotation)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #277:
+[https://weboftrust.github.io/keridoc/docs/glossary/reserve-rotation](https://weboftrust.github.io/keridoc/docs/glossary/reserve-rotation)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #278:
 [https://weboftrust.github.io/keridoc/docs/glossary/naive-conversion](https://weboftrust.github.io/keridoc/docs/glossary/naive-conversion)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #279:
+[https://weboftrust.github.io/keridoc/docs/glossary/signing-threshold](https://weboftrust.github.io/keridoc/docs/glossary/signing-threshold)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #280:
+[https://weboftrust.github.io/keridoc/docs/glossary/GPG](https://weboftrust.github.io/keridoc/docs/glossary/GPG)
 
 Found on Pages:
 
@@ -2536,7 +2536,7 @@ Found on Pages:
 
 
 ## Broken Link #282:
-[https://weboftrust.github.io/keridoc/docs/glossary/cryptographic-primitive](https://weboftrust.github.io/keridoc/docs/glossary/cryptographic-primitive)
+[https://weboftrust.github.io/keridoc/docs/glossary/establishment-event](https://weboftrust.github.io/keridoc/docs/glossary/establishment-event)
 
 Found on Pages:
 
@@ -2554,7 +2554,7 @@ Found on Pages:
 
 
 ## Broken Link #284:
-[https://weboftrust.github.io/keridoc/docs/glossary/proof-of-authority](https://weboftrust.github.io/keridoc/docs/glossary/proof-of-authority)
+[https://weboftrust.github.io/keridoc/docs/glossary/cryptographic-primitive](https://weboftrust.github.io/keridoc/docs/glossary/cryptographic-primitive)
 
 Found on Pages:
 
@@ -2563,7 +2563,7 @@ Found on Pages:
 
 
 ## Broken Link #285:
-[https://weboftrust.github.io/keridoc/docs/glossary/legal-entity-vlei-credential-governance-framework](https://weboftrust.github.io/keridoc/docs/glossary/legal-entity-vlei-credential-governance-framework)
+[https://weboftrust.github.io/keridoc/docs/glossary/proof-of-authority](https://weboftrust.github.io/keridoc/docs/glossary/proof-of-authority)
 
 Found on Pages:
 
@@ -2572,7 +2572,7 @@ Found on Pages:
 
 
 ## Broken Link #286:
-[https://weboftrust.github.io/keridoc/docs/glossary/key-event-receipt](https://weboftrust.github.io/keridoc/docs/glossary/key-event-receipt)
+[https://weboftrust.github.io/keridoc/docs/glossary/legal-entity-vlei-credential-governance-framework](https://weboftrust.github.io/keridoc/docs/glossary/legal-entity-vlei-credential-governance-framework)
 
 Found on Pages:
 
@@ -2581,24 +2581,6 @@ Found on Pages:
 
 
 ## Broken Link #287:
-[https://weboftrust.github.io/keridoc/docs/glossary/credential](https://weboftrust.github.io/keridoc/docs/glossary/credential)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #288:
-[https://weboftrust.github.io/keridoc/docs/glossary/legal-entity-official-organizational-role-vlei-credential-governance-framework](https://weboftrust.github.io/keridoc/docs/glossary/legal-entity-official-organizational-role-vlei-credential-governance-framework)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #289:
 [https://weboftrust.github.io/keridoc/docs/glossary/content-addressable-hash](https://weboftrust.github.io/keridoc/docs/glossary/content-addressable-hash)
 
 Found on Pages:
@@ -2607,52 +2589,7 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #290:
-[https://weboftrust.github.io/keridoc/docs/glossary/domain](https://weboftrust.github.io/keridoc/docs/glossary/domain)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #291:
-[https://weboftrust.github.io/keridoc/docs/glossary/GPG](https://weboftrust.github.io/keridoc/docs/glossary/GPG)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #292:
-[https://weboftrust.github.io/keridoc/docs/glossary/schema-registry](https://weboftrust.github.io/keridoc/docs/glossary/schema-registry)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #293:
-[https://weboftrust.github.io/keridoc/docs/glossary/revocation](https://weboftrust.github.io/keridoc/docs/glossary/revocation)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #294:
-[https://weboftrust.github.io/keridoc/docs/glossary/revocation-event](https://weboftrust.github.io/keridoc/docs/glossary/revocation-event)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #295:
+## Broken Link #288:
 [https://weboftrust.github.io/keridoc/docs/glossary/BADA](https://weboftrust.github.io/keridoc/docs/glossary/BADA)
 
 Found on Pages:
@@ -2661,7 +2598,43 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #296:
+## Broken Link #289:
+[https://weboftrust.github.io/keridoc/docs/glossary/credential](https://weboftrust.github.io/keridoc/docs/glossary/credential)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #290:
+[https://weboftrust.github.io/keridoc/docs/glossary/legal-entity-official-organizational-role-vlei-credential-governance-framework](https://weboftrust.github.io/keridoc/docs/glossary/legal-entity-official-organizational-role-vlei-credential-governance-framework)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #291:
+[https://weboftrust.github.io/keridoc/docs/glossary/key-event-receipt](https://weboftrust.github.io/keridoc/docs/glossary/key-event-receipt)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #292:
+[https://weboftrust.github.io/keridoc/docs/glossary/domain](https://weboftrust.github.io/keridoc/docs/glossary/domain)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #293:
 [https://weboftrust.github.io/keridoc/docs/glossary/access-controlled-interaction](https://weboftrust.github.io/keridoc/docs/glossary/access-controlled-interaction)
 
 Found on Pages:
@@ -2670,7 +2643,25 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #297:
+## Broken Link #294:
+[https://weboftrust.github.io/keridoc/docs/glossary/schema-registry](https://weboftrust.github.io/keridoc/docs/glossary/schema-registry)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #295:
+[https://weboftrust.github.io/keridoc/docs/glossary/control-authority](https://weboftrust.github.io/keridoc/docs/glossary/control-authority)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #296:
 [https://weboftrust.github.io/keridoc/docs/glossary/primary-root-of-trust](https://weboftrust.github.io/keridoc/docs/glossary/primary-root-of-trust)
 
 Found on Pages:
@@ -2679,8 +2670,17 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
+## Broken Link #297:
+[https://weboftrust.github.io/keridoc/docs/glossary/revocation](https://weboftrust.github.io/keridoc/docs/glossary/revocation)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
 ## Broken Link #298:
-[https://weboftrust.github.io/keridoc/docs/glossary/control-authority](https://weboftrust.github.io/keridoc/docs/glossary/control-authority)
+[https://weboftrust.github.io/keridoc/docs/glossary/revocation-event](https://weboftrust.github.io/keridoc/docs/glossary/revocation-event)
 
 Found on Pages:
 
@@ -2716,7 +2716,7 @@ Found on Pages:
 
 
 ## Broken Link #302:
-[https://weboftrust.github.io/keridoc/docs/glossary/VDS](https://weboftrust.github.io/keridoc/docs/glossary/VDS)
+[https://weboftrust.github.io/keridoc/docs/glossary/public-verifiable-credential-registry](https://weboftrust.github.io/keridoc/docs/glossary/public-verifiable-credential-registry)
 
 Found on Pages:
 
@@ -2725,7 +2725,7 @@ Found on Pages:
 
 
 ## Broken Link #303:
-[https://weboftrust.github.io/keridoc/docs/glossary/registry](https://weboftrust.github.io/keridoc/docs/glossary/registry)
+[https://weboftrust.github.io/keridoc/docs/glossary/graph-fragment](https://weboftrust.github.io/keridoc/docs/glossary/graph-fragment)
 
 Found on Pages:
 
@@ -2743,7 +2743,7 @@ Found on Pages:
 
 
 ## Broken Link #305:
-[https://weboftrust.github.io/keridoc/docs/glossary/graph-fragment](https://weboftrust.github.io/keridoc/docs/glossary/graph-fragment)
+[https://weboftrust.github.io/keridoc/docs/glossary/registry](https://weboftrust.github.io/keridoc/docs/glossary/registry)
 
 Found on Pages:
 
@@ -2752,15 +2752,6 @@ Found on Pages:
 
 
 ## Broken Link #306:
-[https://weboftrust.github.io/keridoc/docs/glossary/sniffable](https://weboftrust.github.io/keridoc/docs/glossary/sniffable)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #307:
 [https://weboftrust.github.io/keridoc/docs/glossary/ephemeral](https://weboftrust.github.io/keridoc/docs/glossary/ephemeral)
 
 Found on Pages:
@@ -2769,8 +2760,17 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
+## Broken Link #307:
+[https://weboftrust.github.io/keridoc/docs/glossary/KERIMask](https://weboftrust.github.io/keridoc/docs/glossary/KERIMask)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
 ## Broken Link #308:
-[https://weboftrust.github.io/keridoc/docs/glossary/prefix](https://weboftrust.github.io/keridoc/docs/glossary/prefix)
+[https://weboftrust.github.io/keridoc/docs/glossary/VDS](https://weboftrust.github.io/keridoc/docs/glossary/VDS)
 
 Found on Pages:
 
@@ -2779,7 +2779,7 @@ Found on Pages:
 
 
 ## Broken Link #309:
-[https://weboftrust.github.io/keridoc/docs/glossary/public-verifiable-credential-registry](https://weboftrust.github.io/keridoc/docs/glossary/public-verifiable-credential-registry)
+[https://weboftrust.github.io/keridoc/docs/glossary/threshold-signature-scheme](https://weboftrust.github.io/keridoc/docs/glossary/threshold-signature-scheme)
 
 Found on Pages:
 
@@ -2788,7 +2788,7 @@ Found on Pages:
 
 
 ## Broken Link #310:
-[https://weboftrust.github.io/keridoc/docs/glossary/ECR](https://weboftrust.github.io/keridoc/docs/glossary/ECR)
+[https://weboftrust.github.io/keridoc/docs/glossary/sniffable](https://weboftrust.github.io/keridoc/docs/glossary/sniffable)
 
 Found on Pages:
 
@@ -2806,60 +2806,6 @@ Found on Pages:
 
 
 ## Broken Link #312:
-[https://weboftrust.github.io/keridoc/docs/glossary/threshold-signature-scheme](https://weboftrust.github.io/keridoc/docs/glossary/threshold-signature-scheme)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #313:
-[https://weboftrust.github.io/keridoc/docs/glossary/QAR](https://weboftrust.github.io/keridoc/docs/glossary/QAR)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #314:
-[https://weboftrust.github.io/keridoc/docs/glossary/KERIMask](https://weboftrust.github.io/keridoc/docs/glossary/KERIMask)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #315:
-[https://weboftrust.github.io/keridoc/docs/glossary/unsolicited-issuance](https://weboftrust.github.io/keridoc/docs/glossary/unsolicited-issuance)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #316:
-[https://weboftrust.github.io/keridoc/docs/glossary/#Sources-Definition-ChatGPT](https://weboftrust.github.io/keridoc/docs/glossary/#Sources-Definition-ChatGPT)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #317:
-[https://weboftrust.github.io/keridoc/docs/glossary/verifiable-data-registry](https://weboftrust.github.io/keridoc/docs/glossary/verifiable-data-registry)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
-- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
-
-
-## Broken Link #318:
 [https://weboftrust.github.io/keridoc/docs/glossary/AVR](https://weboftrust.github.io/keridoc/docs/glossary/AVR)
 
 Found on Pages:
@@ -2868,8 +2814,62 @@ Found on Pages:
 - [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
 
 
-## Broken Link #319:
+## Broken Link #313:
+[https://weboftrust.github.io/keridoc/docs/glossary/prefix](https://weboftrust.github.io/keridoc/docs/glossary/prefix)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #314:
 [https://weboftrust.github.io/keridoc/docs/glossary/stale-key](https://weboftrust.github.io/keridoc/docs/glossary/stale-key)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #315:
+[https://weboftrust.github.io/keridoc/docs/glossary/#Sources-Definition-ChatGPT](https://weboftrust.github.io/keridoc/docs/glossary/#Sources-Definition-ChatGPT)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #316:
+[https://weboftrust.github.io/keridoc/docs/glossary/QAR](https://weboftrust.github.io/keridoc/docs/glossary/QAR)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #317:
+[https://weboftrust.github.io/keridoc/docs/glossary/stale-event](https://weboftrust.github.io/keridoc/docs/glossary/stale-event)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #318:
+[https://weboftrust.github.io/keridoc/docs/glossary/ECR](https://weboftrust.github.io/keridoc/docs/glossary/ECR)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/dictionary/](https://weboftrust.github.io/keridoc/docs/dictionary/)
+- [https://weboftrust.github.io/keridoc/docs/dictionary/?level=2](https://weboftrust.github.io/keridoc/docs/dictionary/?level=2)
+
+
+## Broken Link #319:
+[https://weboftrust.github.io/keridoc/docs/glossary/service-endpoint](https://weboftrust.github.io/keridoc/docs/glossary/service-endpoint)
 
 Found on Pages:
 
@@ -2887,7 +2887,7 @@ Found on Pages:
 
 
 ## Broken Link #321:
-[https://weboftrust.github.io/keridoc/docs/glossary/party](https://weboftrust.github.io/keridoc/docs/glossary/party)
+[https://weboftrust.github.io/keridoc/docs/glossary/unsolicited-issuance](https://weboftrust.github.io/keridoc/docs/glossary/unsolicited-issuance)
 
 Found on Pages:
 
@@ -2896,7 +2896,7 @@ Found on Pages:
 
 
 ## Broken Link #322:
-[https://weboftrust.github.io/keridoc/docs/glossary/solicited-issuance](https://weboftrust.github.io/keridoc/docs/glossary/solicited-issuance)
+[https://weboftrust.github.io/keridoc/docs/glossary/verifiable-data-registry](https://weboftrust.github.io/keridoc/docs/glossary/verifiable-data-registry)
 
 Found on Pages:
 
@@ -2905,7 +2905,7 @@ Found on Pages:
 
 
 ## Broken Link #323:
-[https://weboftrust.github.io/keridoc/docs/glossary/service-endpoint](https://weboftrust.github.io/keridoc/docs/glossary/service-endpoint)
+[https://weboftrust.github.io/keridoc/docs/glossary/solicited-issuance](https://weboftrust.github.io/keridoc/docs/glossary/solicited-issuance)
 
 Found on Pages:
 
@@ -2923,7 +2923,7 @@ Found on Pages:
 
 
 ## Broken Link #325:
-[https://weboftrust.github.io/keridoc/docs/glossary/stale-event](https://weboftrust.github.io/keridoc/docs/glossary/stale-event)
+[https://weboftrust.github.io/keridoc/docs/glossary/first-seen](https://weboftrust.github.io/keridoc/docs/glossary/first-seen)
 
 Found on Pages:
 
@@ -2932,7 +2932,7 @@ Found on Pages:
 
 
 ## Broken Link #326:
-[https://weboftrust.github.io/keridoc/docs/glossary/first-seen](https://weboftrust.github.io/keridoc/docs/glossary/first-seen)
+[https://weboftrust.github.io/keridoc/docs/glossary/party](https://weboftrust.github.io/keridoc/docs/glossary/party)
 
 Found on Pages:
 
@@ -3005,20 +3005,20 @@ Found on Pages:
 
 
 ## Broken Link #335:
-[https://weboftrust.github.io/keridoc/docs/resources/mdfiles/Philip.Feairheller@gleif.org](https://weboftrust.github.io/keridoc/docs/resources/mdfiles/Philip.Feairheller@gleif.org)
-
-Found on Pages:
-
-- [https://weboftrust.github.io/keridoc/docs/resources/mdfiles/draft-ssmith-ipex/](https://weboftrust.github.io/keridoc/docs/resources/mdfiles/draft-ssmith-ipex/)
-
-
-## Broken Link #336:
 [https://weboftrust.github.io/keridoc/docs/resources/mdfiles/WG@example.com](https://weboftrust.github.io/keridoc/docs/resources/mdfiles/WG@example.com)
 
 Found on Pages:
 
 - [https://weboftrust.github.io/keridoc/docs/resources/mdfiles/draft-ssmith-ipex/](https://weboftrust.github.io/keridoc/docs/resources/mdfiles/draft-ssmith-ipex/)
 - [https://weboftrust.github.io/keridoc/docs/resources/mdfiles/draft-ssmith-oobi/](https://weboftrust.github.io/keridoc/docs/resources/mdfiles/draft-ssmith-oobi/)
+
+
+## Broken Link #336:
+[https://weboftrust.github.io/keridoc/docs/resources/mdfiles/Philip.Feairheller@gleif.org](https://weboftrust.github.io/keridoc/docs/resources/mdfiles/Philip.Feairheller@gleif.org)
+
+Found on Pages:
+
+- [https://weboftrust.github.io/keridoc/docs/resources/mdfiles/draft-ssmith-ipex/](https://weboftrust.github.io/keridoc/docs/resources/mdfiles/draft-ssmith-ipex/)
 
 
 ## Broken Link #337:
