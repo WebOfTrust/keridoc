@@ -2,8 +2,6 @@
 status: draft
 ---
 
-import Kerisse from '/img/kerisse.svg';
-
 # Intro
 
 This is a source directory that explains how this site came to be and how it can be maintained.
@@ -44,7 +42,3 @@ Is the data part of this site and consists of:
 - why do we have this component (and not something else)
 - who does benefit from the component or process
 - what's the precedence, the workflow, the triggers, what comes after this
-
-## Schematic view
-
-<Kerisse />
