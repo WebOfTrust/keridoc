@@ -42,3 +42,7 @@ Is the data part of this site and consists of:
 - why do we have this component (and not something else)
 - who does benefit from the component or process
 - what's the precedence, the workflow, the triggers, what comes after this
+
+## Schematic view
+
+<img src={require('/static/img/kerisse.png').default} alt="" />
