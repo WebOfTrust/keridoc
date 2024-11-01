@@ -1,7 +1,6 @@
 ---
 Status:
 ---
-import Scraping from '/img/scraping.svg';
 
 # Create a search index
 
@@ -166,4 +165,4 @@ The following tools are used for scraping:
 
 ### Visualisation
 
-<Scraping />
+<img src={require('/static/img/scraping.png').default} alt="" />
