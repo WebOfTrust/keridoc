@@ -1,8 +1,6 @@
 ---
 status: concept
 ---
-import Filesystem from '/img/file-system.svg';
-
 # File system
 
 For who: maintainers and developers
@@ -20,4 +18,4 @@ Here follows a brief description of the specific directories and files of KERISS
 
 | @kordwarshuis |
 
-<Filesystem />
+<img src={require('/static/img/file-system.png').default} alt="" />
