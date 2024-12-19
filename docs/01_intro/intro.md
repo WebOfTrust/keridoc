@@ -2,6 +2,8 @@
 
 We aim to document everything related to **KERI, ACDC and CESR** and alike. To let autonomic identifiers florish.
 
+AND HENK TESTED GITHUB.COM FRONT-END EDITING FOR CARLY
+
 ## WebofTrust Concepts, Terminology and Education
 
 [WebofTrust WOT-terms](https://github.com/WebOfTrustkeridoc/)\
